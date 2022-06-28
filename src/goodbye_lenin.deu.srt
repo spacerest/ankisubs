@@ -1,0 +1,4541 @@
+﻿1
+00:00:00,000 --> 00:00:04,000
+<font color="#0000ff">Untertitel: WDR mediagroup GmbH</font>
+<font color="#0000ff">im Auftrag des WDR</font>
+
+2
+00:00:28,840 --> 00:00:31,760
+<font color="#ffffff">(Mann) Guck mal in die Kamera!</font>
+
+3
+00:00:34,880 --> 00:00:36,960
+<font color="#ffffff">Finger weg!</font>
+
+4
+00:00:41,400 --> 00:00:43,480
+<font color="#ffffff">Alex, halt dich fest!</font>
+
+5
+00:02:06,240 --> 00:02:14,560
+<font color="#ffffff">Behutsam wird der riesige Koloss</font>
+<font color="#ffffff">auf den Startplatz gestellt.</font>
+
+6
+00:02:15,400 --> 00:02:20,440
+<font color="#ffffff">Hier erweist sich das Resultat</font>
+<font color="#ffffff">der Gemeinschaftsarbeit.</font>
+
+7
+00:02:20,640 --> 00:02:25,760
+<font color="#ffffff">Ein Beispiel für das Wort:</font>
+<font color="#ffffff">"Jeder liefert jedem Qualität".</font>
+
+8
+00:02:26,200 --> 00:02:28,280
+<font color="#ffff00">Da ist er!</font>
+
+9
+00:02:28,520 --> 00:02:31,560
+<font color="#ffffff">Hier sieht man es in Vollendung.</font>
+
+10
+00:02:34,160 --> 00:02:40,200
+<font color="#ffffff">Ich bin zum Flug mit dem</font>
+<font color="#ffffff">Raumschiff Sojus 31 bereit.</font>
+
+11
+00:02:40,560 --> 00:02:44,560
+<font color="#ffff00">Am 26. August 1978</font>
+<font color="#ffff00">waren wir auf Weltniveau.</font>
+
+12
+00:02:44,800 --> 00:02:50,720
+<font color="#ffff00">Sigmund Jähn, Bürger der DDR,</font>
+<font color="#ffff00">flog als erster Deutscher ins All.</font>
+
+13
+00:02:50,920 --> 00:02:54,480
+<font color="#ffff00">Mit unserer Familie</font>
+<font color="#ffff00">aber war es vorbei.</font>
+
+14
+00:02:54,680 --> 00:02:58,360
+<font color="#ffffff">Ihr Mann ist</font>
+<font color="#ffffff">im kapitalistischen Ausland.</font>
+
+15
+00:02:58,640 --> 00:03:00,960
+<font color="#00ff00">Er vertritt seinen Chef.</font>
+
+16
+00:03:01,160 --> 00:03:04,120
+<font color="#ffffff">Hat ihr Mann Westkontakte?</font>
+<font color="#00ff00">- Nein.</font>
+
+17
+00:03:05,040 --> 00:03:09,520
+<font color="#ffffff">Wie würden Sie den Zustand</font>
+<font color="#ffffff">Ihrer Ehe beschreiben?</font>
+
+18
+00:03:09,720 --> 00:03:14,680
+<font color="#ffffff">Hat Ihr Mann mit Ihnen über</font>
+<font color="#ffffff">Republikflucht gesprochen?</font>
+
+19
+00:03:14,880 --> 00:03:19,120
+<font color="#ffffff">Frau Kerner, hat er das</font>
+<font color="#ffffff">mit Ihnen abgesprochen?</font>
+
+20
+00:03:19,840 --> 00:03:21,960
+<font color="#ffffff">Ich bin Sigmund Jähn.</font>
+
+21
+00:03:22,200 --> 00:03:26,320
+<font color="#ffffff">Ich danke dem Zentralkomitee</font>
+<font color="#ffffff">der Sowjetunion.</font>
+
+22
+00:03:26,960 --> 00:03:29,600
+<font color="#00ff00">Haut ab! Lasst mich in Ruhe!</font>
+
+23
+00:03:29,840 --> 00:03:34,040
+<font color="#ffff00">Sigmund Jähn vertrat</font>
+<font color="#ffff00">im Kosmos tapfer die DDR.</font>
+
+24
+00:03:34,240 --> 00:03:40,360
+<font color="#ffff00">Mein Erzeuger ließ sich von einer</font>
+<font color="#ffff00">Klassenfeindin das Hirn wegvögeln.</font>
+
+25
+00:03:40,600 --> 00:03:42,840
+<font color="#ffff00">Er kam nie mehr zurück.</font>
+
+26
+00:03:43,040 --> 00:03:48,320
+<font color="#ffff00">Meine Mutter wurde so traurig,</font>
+<font color="#ffff00">dass sie aufhörte zu reden.</font>
+
+27
+00:03:48,840 --> 00:03:54,520
+<font color="#ffff00">Sie sprach einfach nicht mehr,</font>
+<font color="#ffff00">nicht mit uns, nicht mit anderen.</font>
+
+28
+00:04:00,520 --> 00:04:06,280
+<font color="#ffff00">Bitte, Mama, komm zurück! Es ist</font>
+<font color="#ffff00">so langweilig bei Frau Schäfer.</font>
+
+29
+00:04:08,480 --> 00:04:10,840
+<font color="#ffff00">Mama! Ich habe dich lieb.</font>
+
+30
+00:04:23,040 --> 00:04:28,120
+<font color="#ffffff">Der Sandmann hat sich den</font>
+<font color="#ffffff">Weltraumbedingungen angepasst.</font>
+
+31
+00:04:28,360 --> 00:04:31,880
+<font color="#ffffff">Er hat sich mit</font>
+<font color="#ffffff">Mascha bekannt gemacht.</font>
+
+32
+00:04:33,200 --> 00:04:38,480
+<font color="#ffffff">Sie haben an Bord eine</font>
+<font color="#ffffff">kosmische Hochzeit gefeiert.</font>
+
+33
+00:04:38,680 --> 00:04:44,040
+<font color="#ffffff">In wenigen Minuten fliegt der</font>
+<font color="#ffffff">Sandmann mit Mascha zur Erde.</font>
+
+34
+00:04:44,280 --> 00:04:49,320
+<font color="#ffffff">Ich hoffe, liebe Kinder,</font>
+<font color="#ffffff">dass ihr das gut gesehen habt.</font>
+
+35
+00:04:50,520 --> 00:04:55,200
+<font color="#ffff00">Nach acht Wochen kam Mutter</font>
+<font color="#ffff00">wie verwandelt zurück.</font>
+
+36
+00:04:55,400 --> 00:04:58,520
+<font color="#ffffff">(beide) Überraschung!</font>
+<font color="#00ff00">- Meine Süßen!</font>
+
+37
+00:05:03,440 --> 00:05:07,160
+<font color="#00ff00">Mein Alex. Mein kleiner Kosmonaut.</font>
+
+38
+00:05:25,640 --> 00:05:28,680
+<font color="#ffff00">Wir sprachen nie mehr von Vater.</font>
+
+39
+00:05:29,320 --> 00:05:34,480
+<font color="#ffff00">Mutter war mit dem sozialistischen</font>
+<font color="#ffff00">Vaterland verheiratet.</font>
+
+40
+00:05:39,400 --> 00:05:45,400
+<font color="#ffffff">(Sie singen) ♪ Unsere Heimat, das</font>
+<font color="#ffffff">sind nicht nur Städte und Dörfer. ♪</font>
+
+41
+00:05:45,640 --> 00:05:49,680
+<font color="#ffff00">Diese Beziehung</font>
+<font color="#ffff00">war natürlich nicht sexuell.</font>
+
+42
+00:05:49,880 --> 00:05:55,840
+<font color="#ffff00">So blieb viel Elan für uns Kinder</font>
+<font color="#ffff00">und den sozialistischen Alltag.</font>
+
+43
+00:05:56,040 --> 00:06:02,040
+<font color="#ffffff">"Unsere Heimat ist das Gras auf</font>
+<font color="#ffffff">der Wiese, das Korn auf dem Feld."</font>
+
+44
+00:06:02,280 --> 00:06:08,120
+<font color="#ffff00">Meine Mutter wurde Förderin des</font>
+<font color="#ffff00">gesellschaftlichen Fortschritts.</font>
+
+45
+00:06:08,320 --> 00:06:13,480
+<font color="#ffff00">Aktivistin für die einfachen</font>
+<font color="#ffff00">Bedürfnisse der Bevölkerung.</font>
+
+46
+00:06:14,160 --> 00:06:21,760
+<font color="#00ff00">Eingabe: Betrifft schreiend</font>
+<font color="#00ff00">bunte Umstandskleidung.</font>
+
+47
+00:06:24,440 --> 00:06:28,520
+<font color="#ffffff">Wir berichten von der</font>
+<font color="#ffffff">feierlichen Auszeichnung.</font>
+
+48
+00:06:28,760 --> 00:06:30,880
+<font color="#ffff00">Jetzt kommts!</font>
+
+49
+00:06:31,120 --> 00:06:36,760
+<font color="#ffffff">Arbeiter, Künstler und Bauern</font>
+<font color="#ffffff">sind heute nach Berlin gekommen.</font>
+
+50
+00:06:37,000 --> 00:06:42,680
+<font color="#ffffff">Sie empfangen im Staatsrat die</font>
+<font color="#ffffff">höchsten Auszeichnungen der DDR.</font>
+
+51
+00:06:44,400 --> 00:06:46,560
+<font color="#ffff00">Da bist du, Mama!</font>
+
+52
+00:06:47,880 --> 00:06:53,320
+<font color="#ffffff">Die Würdigung großer Verdienste</font>
+<font color="#ffffff">beim Aufbau des Sozialismus.</font>
+
+53
+00:06:53,560 --> 00:06:58,320
+<font color="#ffffff">Das ZK der SED zeichnet</font>
+<font color="#ffffff">verdienstvolle Personen aus.</font>
+
+54
+00:06:58,520 --> 00:07:02,920
+<font color="#ffffff">So wie immer am Vorabend</font>
+<font color="#ffffff">des Nationalfeiertages.</font>
+
+55
+00:07:04,360 --> 00:07:09,840
+<font color="#ffff00">Dann war es so weit: Ich flog</font>
+<font color="#ffff00">als zweiter Deutscher ins All.</font>
+
+56
+00:07:10,040 --> 00:07:13,960
+<font color="#ffff00">Tiefer und weiter</font>
+<font color="#ffff00">als je ein Mensch zuvor.</font>
+
+57
+00:07:14,200 --> 00:07:19,760
+<font color="#ffff00">Ich stellte mir vor, wie ich die</font>
+<font color="#ffff00">Rätsel des Kosmos erforsche.</font>
+
+58
+00:07:19,960 --> 00:07:25,840
+<font color="#ffff00">Ich würde auf die Erde blicken</font>
+<font color="#ffff00">und stolz meiner Mutter zuwinken.</font>
+
+59
+00:07:26,760 --> 00:07:28,920
+<font color="#ffff00">Rakete gezündet!</font>
+
+60
+00:07:50,720 --> 00:07:54,400
+<font color="#ffffff">(Lautsprecher) 1, 2. Mikrofonprobe.</font>
+
+61
+00:07:54,640 --> 00:07:56,760
+<font color="#ffff00">Die DDR wurde 40.</font>
+
+62
+00:07:57,000 --> 00:08:02,400
+<font color="#ffff00">Ich hatte frei bei der PGH</font>
+<font color="#ffff00">Fernsehreparatur Adolf Hennecke.</font>
+
+63
+00:08:02,800 --> 00:08:08,680
+<font color="#ffff00">Ich fühlte mich auf dem Höhepunkt</font>
+<font color="#ffff00">meiner männlichen Ausstrahlung.</font>
+
+64
+00:08:11,120 --> 00:08:14,120
+<font color="#ffffff">* Marschmusik *</font>
+
+65
+00:08:16,040 --> 00:08:18,200
+<font color="#ffffff">(alle) Rechts, 2, 3!</font>
+
+66
+00:08:18,640 --> 00:08:21,600
+<font color="#ffff00">Die Zeit roch nach Veränderung.</font>
+
+67
+00:08:21,880 --> 00:08:27,480
+<font color="#ffff00">Und ein zu großer Schützenverein</font>
+<font color="#ffff00">gab seine letzte Vorstellung.</font>
+
+68
+00:08:37,040 --> 00:08:39,120
+<font color="#ffffff">* Klopfen *</font>
+
+69
+00:08:39,360 --> 00:08:41,400
+<font color="#ffffff">Alex!</font>
+
+70
+00:08:41,720 --> 00:08:43,880
+<font color="#ffff00">Was?</font>
+
+71
+00:08:45,000 --> 00:08:49,440
+<font color="#ffffff">Alex, da ist ein Mädel,</font>
+<font color="#ffffff">soll ich sie wegschicken?</font>
+
+72
+00:08:49,680 --> 00:08:53,880
+<font color="#ffff00">Welches Mädel?</font>
+<font color="#ffffff">- Sie macht einen guten Eindruck.</font>
+
+73
+00:08:58,560 --> 00:09:02,320
+<font color="#ffffff">Hast du schon wieder</font>
+<font color="#ffffff">in Klamotten gepennt?</font>
+
+74
+00:09:02,560 --> 00:09:04,720
+<font color="#ffff00">Wo ist der Besuch?</font>
+
+75
+00:09:04,920 --> 00:09:09,880
+<font color="#ffffff">Der Besuch heißt Paula.</font>
+<font color="#ffffff">Ein Rendezvous wie verabredet.</font>
+
+76
+00:09:10,080 --> 00:09:14,240
+<font color="#ffff00">Kann sich dein Ex nicht</font>
+<font color="#ffff00">um die Kleine kümmern?</font>
+
+77
+00:09:14,480 --> 00:09:18,000
+<font color="#ffffff">Der Kindsvater hat</font>
+<font color="#ffffff">Bereitschaftsdienst.</font>
+
+78
+00:09:24,200 --> 00:09:27,800
+<font color="#ffffff">Man hört die</font>
+<font color="#ffffff">Truppenparade vorbeiziehen.</font>
+
+79
+00:09:29,800 --> 00:09:31,960
+<font color="#ffffff">Das Geschirr klappert.</font>
+
+80
+00:09:32,160 --> 00:09:36,360
+<font color="#ffffff">"... denn eine Frau</font>
+<font color="#ffffff">in bestimmtem Alter,..."</font>
+
+81
+00:09:36,560 --> 00:09:42,040
+<font color="#00ff00">"...kann und will die angebotenen</font>
+<font color="#00ff00">Slips nicht mehr tragen."</font>
+
+82
+00:09:42,640 --> 00:09:48,600
+<font color="#00ff00">"Auch in der DDR gibt es nicht nur</font>
+<font color="#00ff00">exquisit schlanke Genossinnen."</font>
+
+83
+00:09:48,840 --> 00:09:50,960
+<font color="#ffffff">Das ist gut.</font>
+
+84
+00:09:51,400 --> 00:09:55,600
+<font color="#ffff00">Geht runter, es hat angefangen!</font>
+<font color="#00ff00">- Das hören wir.</font>
+
+85
+00:09:55,800 --> 00:09:58,520
+<font color="#ffff00">Es könnte das letzte Mal sein.</font>
+
+86
+00:09:58,760 --> 00:10:01,600
+<font color="#ffffff">Schläft Paula schon wieder?</font>
+<font color="#ffff00">- Ja.</font>
+
+87
+00:10:01,800 --> 00:10:05,880
+<font color="#ffffff">Vielleicht sehe ich</font>
+<font color="#ffffff">eure Mutter im Fernsehen.</font>
+
+88
+00:10:06,120 --> 00:10:10,080
+<font color="#ffff00">Im Palast, da musst</font>
+<font color="#ffff00">du mit der Lupe suchen.</font>
+
+89
+00:10:10,280 --> 00:10:13,240
+<font color="#00ff00">Ich weiß nicht, ob ich hingehe.</font>
+
+90
+00:10:13,440 --> 00:10:19,000
+<font color="#00ff00">Alle hohen Tiere von der Partei</font>
+<font color="#00ff00">sind da. Ich kenne da keinen.</font>
+
+91
+00:10:19,200 --> 00:10:23,160
+<font color="#00ff00">Aber Gorbatschow würde</font>
+<font color="#00ff00">ich gerne mal sehen.</font>
+
+92
+00:10:23,360 --> 00:10:26,520
+<font color="#ffff00">Die alten Säcke</font>
+<font color="#ffff00">feiern sich selbst.</font>
+
+93
+00:10:26,760 --> 00:10:31,600
+<font color="#00ff00">Du musst nicht hingucken.</font>
+<font color="#ffff00">- Merkst du, was da passiert?</font>
+
+94
+00:10:32,000 --> 00:10:37,440
+<font color="#00ff00">Willst du abhauen? Es ändert sich</font>
+<font color="#00ff00">nichts, wenn alle abhauen.</font>
+
+95
+00:10:37,680 --> 00:10:43,880
+<font color="#00ff00">Weiter: "Es kann nicht sein, dass</font>
+<font color="#00ff00">die kräftigeren Arbeiterinnen ..."</font>
+
+96
+00:10:44,080 --> 00:10:48,880
+<font color="#00ff00">"...durch unsere Modekombinate</font>
+<font color="#00ff00">noch im 40. Jahr..."</font>
+
+97
+00:10:49,120 --> 00:10:54,080
+<font color="#00ff00">"...des Bestehens unserer</font>
+<font color="#00ff00">Republik bestraft werden."</font>
+
+98
+00:10:54,280 --> 00:10:58,080
+<font color="#00ff00">"Mit sozialistischem Gruß,</font>
+<font color="#00ff00">Hanna Schäfer!"</font>
+
+99
+00:11:05,960 --> 00:11:11,520
+<font color="#ffff00">Am Abend des 7. Oktober 1989</font>
+<font color="#ffff00">gingen viele Menschen spazieren.</font>
+
+100
+00:11:11,680 --> 00:11:16,440
+<font color="#ffff00">Sie setzten sich für</font>
+<font color="#ffff00">grenzenloses Spazierengehen ein.</font>
+
+101
+00:11:16,840 --> 00:11:23,120
+<font color="#ffffff">(alle rufen) "Pressefreiheit!"</font>
+
+102
+00:11:42,760 --> 00:11:44,840
+<font color="#ffffff">Husten! Stark husten!</font>
+
+103
+00:11:47,840 --> 00:11:49,960
+<font color="#ffffff">Gehts wieder?</font>
+
+104
+00:11:52,400 --> 00:11:54,360
+<font color="#ffffff">Gehts?</font>
+<font color="#ffff00">- Danke schön!</font>
+
+105
+00:12:05,360 --> 00:12:08,160
+<font color="#ffffff">Da vorne sind noch mehr Grüne.</font>
+
+106
+00:12:09,920 --> 00:12:12,000
+<font color="#ffffff">Jaja, ist ja gut!</font>
+
+107
+00:12:14,000 --> 00:12:16,680
+<font color="#ffffff">(Lautsprecher) Kette bilden!</font>
+
+108
+00:12:17,280 --> 00:12:21,040
+<font color="#ffffff">(Demonstranten rufen)</font>
+<font color="#ffffff">"Keine Gewalt!".</font>
+
+109
+00:12:22,200 --> 00:12:26,600
+<font color="#ffffff">Nehmen Sie die U-Bahn,</font>
+<font color="#ffffff">dann schaffen Sie es noch.</font>
+
+110
+00:12:33,200 --> 00:12:36,000
+<font color="#ffffff">"Keine Gewalt! Keine Gewalt!"</font>
+
+111
+00:12:39,440 --> 00:12:41,880
+<font color="#ffff00">Wie heißt du?</font>
+<font color="#ffffff">- La...</font>
+
+112
+00:12:55,480 --> 00:12:58,200
+<font color="#ffffff">"Keine Gewalt! Keine Gewalt!"</font>
+
+113
+00:13:04,320 --> 00:13:10,560
+<font color="#ffffff">* laute hysterische Schreie *</font>
+
+114
+00:13:20,640 --> 00:13:22,720
+<font color="#00ff00">Hören Sie auf damit!</font>
+
+115
+00:13:23,600 --> 00:13:25,760
+<font color="#ffffff">Pass doch auf!</font>
+
+116
+00:13:42,360 --> 00:13:46,200
+<font color="#ffff00">Meine Mutter liegt da!</font>
+<font color="#ffffff">- Bleib stehen!</font>
+
+117
+00:13:58,560 --> 00:14:03,280
+<font color="#ffff00">Lass mich raus, du Arschloch.</font>
+<font color="#ffff00">Da liegt meine Mutter.</font>
+
+118
+00:14:32,600 --> 00:14:34,640
+<font color="#ffffff">Alexander Kerner?</font>
+<font color="#ffff00">- Ja?</font>
+
+119
+00:14:41,000 --> 00:14:43,280
+<font color="#ffffff">Ihre Mutter.</font>
+
+120
+00:15:35,720 --> 00:15:37,800
+<font color="#ffff00">Was ist mit Mutter?</font>
+
+121
+00:15:40,640 --> 00:15:42,720
+<font color="#ffff00">Was ist los?</font>
+
+122
+00:15:42,960 --> 00:15:45,760
+<font color="#ffffff">Mama hatte einen Herzinfarkt.</font>
+
+123
+00:15:46,960 --> 00:15:53,040
+<font color="#ffffff">Die Wiederbelebungsmaßnahmen kamen</font>
+<font color="#ffffff">spät. Ihre Mutter liegt im Koma.</font>
+
+124
+00:15:55,960 --> 00:16:01,120
+<font color="#ffff00">Wann kann man mit ihr sprechen?</font>
+<font color="#ffffff">- Alex, Mama liegt im Koma.</font>
+
+125
+00:16:01,520 --> 00:16:05,200
+<font color="#ffffff">Wir wissen nicht,</font>
+<font color="#ffffff">ob sie wieder aufwacht.</font>
+
+126
+00:16:35,600 --> 00:16:37,680
+<font color="#ffff00">Hörst du mich, Mama?</font>
+
+127
+00:16:40,120 --> 00:16:42,160
+<font color="#ffff00">Du musst aufwachen.</font>
+
+128
+00:16:42,560 --> 00:16:45,040
+<font color="#ffff00">Aber Mutter schlief fest.</font>
+
+129
+00:16:45,960 --> 00:16:51,640
+<font color="#ffff00">Sie kreiste wie ein Satellit</font>
+<font color="#ffff00">um das menschliche Treiben...</font>
+
+130
+00:16:51,920 --> 00:16:57,120
+<font color="#ffff00">...auf unserem Planeten und</font>
+<font color="#ffff00">in unserer kleinen Republik.</font>
+
+131
+00:16:58,560 --> 00:17:04,520
+<font color="#ffffff">Die 9. Tagung hat Erich Honecker</font>
+<font color="#ffffff">von seinen Funktionen entbunden.</font>
+
+132
+00:17:04,720 --> 00:17:08,400
+<font color="#ffffff">Sie hat ihm für</font>
+<font color="#ffffff">sein Lebenswerk gedankt.</font>
+
+133
+00:17:08,920 --> 00:17:14,600
+<font color="#ffff00">Ihr Schlaf verdunkelte den Abgang</font>
+<font color="#ffff00">des Genossen Erich Honecker.</font>
+
+134
+00:17:14,800 --> 00:17:20,320
+<font color="#ffff00">Generalsekretär der SED und</font>
+<font color="#ffff00">Vorsitzender des DDR-Staatsrates.</font>
+
+135
+00:17:21,320 --> 00:17:25,200
+<font color="#ffffff">Berlin: Heute Abend</font>
+<font color="#ffffff">ist die Mauer gefallen.</font>
+
+136
+00:17:25,880 --> 00:17:28,880
+<font color="#ffffff">Sie singen das Deutschlandlied.</font>
+
+137
+00:17:29,080 --> 00:17:34,240
+<font color="#ffff00">Mutter verschlief ein Konzert</font>
+<font color="#ffff00">vor dem Rathaus Schöneberg.</font>
+
+138
+00:17:34,720 --> 00:17:40,680
+<font color="#ffff00">Und den Beginn einer gigantischen,</font>
+<font color="#ffff00">einzigartigen Altstoffsammlung.</font>
+
+139
+00:17:44,960 --> 00:17:47,960
+<font color="#ffffff">(Sie rufen) "Macht das Tor auf!"</font>
+
+140
+00:17:51,680 --> 00:17:55,040
+<font color="#ffff00">Mutter schlief weiter,</font>
+<font color="#ffff00">tief und fest.</font>
+
+141
+00:17:55,600 --> 00:18:00,160
+<font color="#ffff00">Sie verpasste meinen</font>
+<font color="#ffff00">ersten Ausflug in den Westen.</font>
+
+142
+00:18:00,480 --> 00:18:05,880
+<font color="#ffff00">Einige Genossen schützten uns</font>
+<font color="#ffff00">Arbeiter und Bauern unbeirrt.</font>
+
+143
+00:18:06,080 --> 00:18:11,960
+<font color="#ffff00">Ihr entgingen meine kulturellen</font>
+<font color="#ffff00">Entdeckungen in einem neuen Land.</font>
+
+144
+00:18:14,400 --> 00:18:16,520
+<font color="#ffff00">Entschuldigung.</font>
+
+145
+00:18:18,440 --> 00:18:23,120
+<font color="#ffff00">Und sie nahm nicht</font>
+<font color="#ffff00">an den ersten freien Wahlen teil.</font>
+
+146
+00:18:23,640 --> 00:18:26,320
+<font color="#ffffff">(Sie rufen) "Helmut! Helmut!"</font>
+
+147
+00:18:26,560 --> 00:18:30,880
+<font color="#ffff00">Sie verschlief, wie Ariane</font>
+<font color="#ffff00">ihr Studium schmiss.</font>
+
+148
+00:18:31,080 --> 00:18:36,120
+<font color="#ffffff">Danke, dass Sie sich für</font>
+<font color="#ffffff">Burger King entschieden haben.</font>
+
+149
+00:18:36,320 --> 00:18:41,160
+<font color="#ffff00">Und sie verpasste den Einzug</font>
+<font color="#ffff00">von Arianes neuem Lover.</font>
+
+150
+00:18:41,360 --> 00:18:45,040
+<font color="#ffff00">Rainer, Klassenfeind</font>
+<font color="#ffff00">und Grilletten-Chef.</font>
+
+151
+00:18:45,640 --> 00:18:49,600
+<font color="#ffffff">Die Schlafzimmermöbel</font>
+<font color="#ffffff">kommen in den Keller.</font>
+
+152
+00:18:49,800 --> 00:18:55,240
+<font color="#ffff00">Ihr entging die Verwestlichung</font>
+<font color="#ffff00">unserer Plattenbauwohnung...</font>
+
+153
+00:18:55,480 --> 00:18:59,680
+<font color="#ffffff">Der Krempel mit</font>
+<font color="#ffffff">dem roten Punkt ist Sperrmüll.</font>
+
+154
+00:18:59,880 --> 00:19:05,360
+<font color="#ffff00">...und Rainers Begeisterung</font>
+<font color="#ffff00">für die Sitten des Morgenlandes.</font>
+
+155
+00:19:05,600 --> 00:19:07,760
+<font color="#ffffff">* orientalische Musik *</font>
+
+156
+00:19:08,440 --> 00:19:13,160
+<font color="#ffff00">Sie wusste nichts von meiner</font>
+<font color="#ffff00">hormonellen Verzückung.</font>
+
+157
+00:19:13,400 --> 00:19:18,640
+<font color="#ffff00">In die war ich beim Anblick</font>
+<font color="#ffff00">einiger schöner Beine geraten.</font>
+
+158
+00:19:26,760 --> 00:19:28,880
+<font color="#ffff00">Scheiße!</font>
+
+159
+00:19:34,800 --> 00:19:39,120
+<font color="#ffffff">Was machen Sie da?</font>
+<font color="#ffff00">- Mir ist... die Infusion...</font>
+
+160
+00:19:39,320 --> 00:19:45,040
+<font color="#ffff00">Und sie verpasste den ersten</font>
+<font color="#ffff00">Arbeitstag von Lernschwester Lara.</font>
+
+161
+00:19:45,240 --> 00:19:48,560
+<font color="#ffff00">Austauschengel aus</font>
+<font color="#ffff00">der Sowjetunion.</font>
+
+162
+00:19:48,920 --> 00:19:51,480
+<font color="#ffffff">Da bist du ja wieder.</font>
+<font color="#ffff00">- Hallo.</font>
+
+163
+00:19:53,640 --> 00:19:59,120
+<font color="#ffffff">Ich habe mir Sorgen gemacht.</font>
+<font color="#ffff00">- Die haben mich eingebuchtet.</font>
+
+164
+00:20:09,800 --> 00:20:14,200
+<font color="#ffff00">Mutter verschlief</font>
+<font color="#ffff00">den Siegeszug des Kapitalismus.</font>
+
+165
+00:20:14,720 --> 00:20:16,840
+<font color="#ffffff">Ablösung!</font>
+
+166
+00:20:23,920 --> 00:20:29,040
+<font color="#ffff00">Und die Terminkoordination</font>
+<font color="#ffff00">meiner Besuche im Krankenhaus.</font>
+
+167
+00:20:51,120 --> 00:20:54,360
+<font color="#ffff00">Weißt du, was mir aufgefallen ist?</font>
+
+168
+00:20:54,560 --> 00:20:59,200
+<font color="#ffff00">Wenn sie gute Laune hat,</font>
+<font color="#ffff00">trägt sie die Haare offen.</font>
+
+169
+00:20:59,440 --> 00:21:05,480
+<font color="#ffff00">Sonst steckt sie sie hoch. Und sie</font>
+<font color="#ffff00">kaut Fingernägel bei der Visite.</font>
+
+170
+00:21:06,760 --> 00:21:10,000
+<font color="#ffff00">Sie hat ein wunderschönes Lächeln.</font>
+
+171
+00:21:14,360 --> 00:21:18,200
+<font color="#ffff00">Sie verschlief, wie viele</font>
+<font color="#ffff00">arbeitslos wurden.</font>
+
+172
+00:21:18,400 --> 00:21:22,360
+<font color="#ffff00">Die PGH Fernsehreparatur</font>
+<font color="#ffff00">wurde abgewickelt.</font>
+
+173
+00:21:22,560 --> 00:21:27,120
+<font color="#ffff00">Ich war der Letzte.</font>
+<font color="#ffff00">Dann kam der Aufschwung.</font>
+
+174
+00:21:27,320 --> 00:21:32,000
+<font color="#ffff00">Im Ost-West-Team erlebte</font>
+<font color="#ffff00">ich die Wiedervereinigung.</font>
+
+175
+00:21:32,200 --> 00:21:37,240
+<font color="#ffff00">Satellitenschüsseln ließen</font>
+<font color="#ffff00">unsere Landschaften erblühen.</font>
+
+176
+00:21:37,920 --> 00:21:40,000
+<font color="#00ffff">Denis Domaschke.</font>
+
+177
+00:21:43,320 --> 00:21:45,480
+<font color="#ffffff">Alexander Kerner.</font>
+
+178
+00:21:45,680 --> 00:21:48,920
+<font color="#ffff00">Hier.</font>
+<font color="#ffffff">- Komm ran, nicht so schüchtern!</font>
+
+179
+00:21:50,040 --> 00:21:52,120
+<font color="#ffff00">Tag.</font>
+
+180
+00:21:52,360 --> 00:21:54,480
+<font color="#ffffff">Vertragt euch, Mädels.</font>
+
+181
+00:21:55,360 --> 00:21:57,400
+<font color="#ffff00">Tag.</font>
+<font color="#ffffff">- Tag.</font>
+
+182
+00:22:03,400 --> 00:22:05,560
+<font color="#ffffff">Knut Vogel?</font>
+
+183
+00:22:09,360 --> 00:22:15,080
+<font color="#ffff00">Hallo Mama. Dr. Wagner sagt,</font>
+<font color="#ffff00">dass wir mit dir sprechen sollen.</font>
+
+184
+00:22:15,320 --> 00:22:20,800
+<font color="#ffff00">Da ich nicht da sein kann,</font>
+<font color="#ffff00">geht es auch so. Es ist fünf Uhr.</font>
+
+185
+00:22:21,000 --> 00:22:24,560
+<font color="#ffff00">Die Ärzte sind weg,</font>
+<font color="#ffff00">du hast deine Ruhe.</font>
+
+186
+00:22:24,760 --> 00:22:28,440
+<font color="#ffff00">Schwester Lara wird</font>
+<font color="#ffff00">jetzt auch weg sein.</font>
+
+187
+00:22:28,640 --> 00:22:33,080
+<font color="#ffff00">Wenn du sie sehen könntest,</font>
+<font color="#ffff00">würdest du aufwachen.</font>
+
+188
+00:22:33,320 --> 00:22:39,440
+<font color="#ffff00">Ariane lässt dich grüßen, und</font>
+<font color="#ffff00">Paula kriegt ihre ersten Zähne.</font>
+
+189
+00:22:39,640 --> 00:22:43,840
+<font color="#ffff00">Mutter verschlief meine</font>
+<font color="#ffff00">Fortschritte bei Lara.</font>
+
+190
+00:22:44,040 --> 00:22:49,080
+<font color="#ffff00">Endlich hatten wir unser erstes</font>
+<font color="#ffff00">romantisches Rendezvous.</font>
+
+191
+00:22:50,160 --> 00:22:53,160
+<font color="#ffffff">* laute Musik *</font>
+
+192
+00:23:10,320 --> 00:23:12,480
+<font color="#ffff00">Laut hier!</font>
+
+193
+00:23:29,280 --> 00:23:32,920
+<font color="#ffff00">Unsere Russisch-Lehrerin</font>
+<font color="#ffff00">kam aus Minsk.</font>
+
+194
+00:23:33,160 --> 00:23:37,000
+<font color="#ffffff">Mehr weißt du nicht</font>
+<font color="#ffffff">über russische Frauen?</font>
+
+195
+00:23:41,520 --> 00:23:46,800
+<font color="#ffff00">Der Wind der Veränderung blies</font>
+<font color="#ffff00">durch die Ruinen der Republik.</font>
+
+196
+00:23:47,000 --> 00:23:50,560
+<font color="#ffff00">Berlin war der</font>
+<font color="#ffff00">schönste Platz auf Erden.</font>
+
+197
+00:23:50,960 --> 00:23:56,080
+<font color="#ffff00">Wir standen im Mittelpunkt der</font>
+<font color="#ffff00">Welt, da, wo sich was bewegte.</font>
+
+198
+00:23:56,320 --> 00:23:58,640
+<font color="#ffff00">Und wir bewegten uns mit.</font>
+
+199
+00:23:58,880 --> 00:24:02,920
+<font color="#ffffff">Schade, dass sie von</font>
+<font color="#ffffff">allem nichts mitbekommt.</font>
+
+200
+00:24:03,520 --> 00:24:06,280
+<font color="#ffff00">Das ist vielleicht besser so.</font>
+
+201
+00:24:06,520 --> 00:24:10,320
+<font color="#ffff00">Alles, woran sie glaubte,</font>
+<font color="#ffff00">ist verschwunden.</font>
+
+202
+00:24:10,520 --> 00:24:14,080
+<font color="#ffffff">Und dein Vater?</font>
+<font color="#ffff00">- Der war Arzt.</font>
+
+203
+00:24:15,120 --> 00:24:20,440
+<font color="#ffff00">Er ist in den Westen abgehauen,</font>
+<font color="#ffff00">hat sich nie mehr gemeldet.</font>
+
+204
+00:24:44,680 --> 00:24:46,840
+<font color="#ffffff">* Musik *</font>
+
+205
+00:25:00,120 --> 00:25:05,840
+<font color="#ffff00">Die Zukunft lag ungewiss und</font>
+<font color="#ffff00">verheißungsvoll in unseren Händen.</font>
+
+206
+00:25:13,760 --> 00:25:16,480
+<font color="#00ffff">Guten Tag, Firma X-TV, wir...</font>
+
+207
+00:25:17,160 --> 00:25:20,480
+<font color="#ffff00">Haben Sie Interesse an Sat-Anlagen?</font>
+
+208
+00:25:20,680 --> 00:25:22,960
+<font color="#ffffff">* Vietnamesisch *</font>
+<font color="#00ffff">- Kein money?</font>
+
+209
+00:25:23,920 --> 00:25:27,880
+<font color="#00ffff">Mögen Sie Fußball?</font>
+<font color="#00ffff">Da haben wir was für Sie.</font>
+
+210
+00:25:29,960 --> 00:25:32,040
+<font color="#00ffff">Firma X-TV, wir...</font>
+
+211
+00:25:32,280 --> 00:25:35,400
+<font color="#00ffff">Brauchen Sie eine Sat-Anlage?</font>
+
+212
+00:25:35,840 --> 00:25:41,240
+<font color="#00ffff">Hier ist Vietnam 1 und 2 und</font>
+<font color="#00ffff">der vietnamesische Sportkanal.</font>
+
+213
+00:25:46,400 --> 00:25:49,640
+<font color="#00ffff">Auf die Fußball-WM!</font>
+<font color="#ffff00">- Auf die Zukunft!</font>
+
+214
+00:25:49,880 --> 00:25:51,960
+<font color="#00ffff">Auf uns, Genosse!</font>
+
+215
+00:26:01,880 --> 00:26:05,040
+<font color="#00ffff">Im Moment läuft es noch nebenbei.</font>
+
+216
+00:26:07,120 --> 00:26:11,480
+<font color="#00ffff">Und später mal mache</font>
+<font color="#00ffff">ich richtige Spielfilme.</font>
+
+217
+00:26:13,280 --> 00:26:18,560
+<font color="#00ffff">Natürlich unter demselben Label.</font>
+<font color="#00ffff">Ich zeige dir mal was.</font>
+
+218
+00:26:22,280 --> 00:26:25,600
+<font color="#00ffff">Da bin ich im Moment dran. Pass auf!</font>
+
+219
+00:26:30,840 --> 00:26:34,480
+<font color="#00ffff">Noch nicht gucken, bitte.</font>
+<font color="#00ffff">Moment, jetzt.</font>
+
+220
+00:26:39,640 --> 00:26:43,640
+<font color="#ffffff">* Musik: "An der schönen</font>
+<font color="#ffffff">blauen Donau" von Johann Strauß" *</font>
+
+221
+00:26:50,800 --> 00:26:52,880
+<font color="#00ffff">Hast du es erkannt?</font>
+
+222
+00:27:05,400 --> 00:27:07,560
+<font color="#00ffff">Jetzt!</font>
+
+223
+00:27:11,320 --> 00:27:16,280
+<font color="#00ffff">Das ist der berühmte Schnitt</font>
+<font color="#00ffff">aus "2001" mit dem Knochen.</font>
+
+224
+00:27:16,480 --> 00:27:19,600
+<font color="#00ffff">Die Torte ist quasi das Raumschiff.</font>
+
+225
+00:27:22,680 --> 00:27:25,120
+<font color="#00ffff">Hast du es jetzt erkannt?</font>
+
+226
+00:27:25,320 --> 00:27:27,400
+<font color="#ffff00">Genial.</font>
+<font color="#00ffff">- Na ja.</font>
+
+227
+00:27:28,800 --> 00:27:32,800
+<font color="#ffffff">* Musik: "An der schönen blauen</font>
+<font color="#ffffff">Donau" von Johann Strauß" *</font>
+
+228
+00:27:37,000 --> 00:27:39,080
+<font color="#ffff00">Genial.</font>
+
+229
+00:27:44,560 --> 00:27:46,680
+<font color="#ffffff">Lacht mal alle schön!</font>
+
+230
+00:27:46,920 --> 00:27:52,320
+<font color="#ffff00">Im Juni 1990 waren die Grenzen</font>
+<font color="#ffff00">unserer DDR nichts mehr wert.</font>
+
+231
+00:27:55,160 --> 00:27:57,320
+<font color="#ffff00">Mutter schlief weiter.</font>
+
+232
+00:27:57,520 --> 00:28:01,200
+<font color="#ffff00">Ich aber handelte</font>
+<font color="#ffff00">nach dem Genossenwort:</font>
+
+233
+00:28:01,400 --> 00:28:05,160
+<font color="#ffff00">"Wir lösen Probleme</font>
+<font color="#ffff00">im Vorwärtsschreiten."</font>
+
+234
+00:28:33,840 --> 00:28:35,920
+<font color="#ffffff">* lautes Klirren *</font>
+
+235
+00:28:38,840 --> 00:28:40,920
+<font color="#ffff00">Mama?</font>
+
+236
+00:28:41,640 --> 00:28:43,720
+<font color="#ffff00">Mama!</font>
+
+237
+00:28:45,360 --> 00:28:47,520
+<font color="#ffff00">Hörst du mich?</font>
+
+238
+00:28:51,960 --> 00:28:56,000
+<font color="#ffffff">Ein Wunder, dass Ihre Mutter</font>
+<font color="#ffffff">aufgewacht ist.</font>
+
+239
+00:28:56,200 --> 00:29:01,240
+<font color="#ffffff">Sie wird nicht mehr dieselbe sein.</font>
+<font color="#ffff00">- Wie meinen Sie das?</font>
+
+240
+00:29:01,440 --> 00:29:05,160
+<font color="#ffffff">Manchmal erleiden Patienten</font>
+<font color="#ffffff">eine Amnesie.</font>
+
+241
+00:29:05,400 --> 00:29:08,920
+<font color="#ffffff">Gedächtnisverlust.</font>
+<font color="#ffffff">Entschuldigung.</font>
+
+242
+00:29:09,560 --> 00:29:14,720
+<font color="#ffffff">Verwirrung, Vermischung von</font>
+<font color="#ffffff">Lang- und Kurzzeitgedächtnis.</font>
+
+243
+00:29:14,960 --> 00:29:20,080
+<font color="#ffffff">Wir wissen nicht, wie stark</font>
+<font color="#ffffff">das Gehirn geschädigt wurde.</font>
+
+244
+00:29:20,280 --> 00:29:24,080
+<font color="#ffffff">Die Palette ist eben</font>
+<font color="#ffffff">so lang wie ungewiss.</font>
+
+245
+00:29:24,320 --> 00:29:28,160
+<font color="#ffffff">Ihre Mutter ist immer noch</font>
+<font color="#ffffff">sehr gefährdet.</font>
+
+246
+00:29:29,880 --> 00:29:35,160
+<font color="#ffffff">Ich weiß nicht, ob sie die nächsten</font>
+<font color="#ffffff">Wochen überleben wird.</font>
+
+247
+00:29:43,440 --> 00:29:49,440
+<font color="#ffff00">Na ja. Können wir sie denn...</font>
+<font color="#ffff00">mit nach Hause nehmen?</font>
+
+248
+00:29:49,800 --> 00:29:54,080
+<font color="#ffffff">Ausgeschlossen.</font>
+<font color="#ffffff">Sie ist hier besser aufgehoben.</font>
+
+249
+00:29:54,320 --> 00:30:00,280
+<font color="#ffffff">Es ist einfacher für Sie. Noch</font>
+<font color="#ffffff">einen Infarkt übersteht sie nicht.</font>
+
+250
+00:30:00,480 --> 00:30:05,600
+<font color="#ffffff">Sie müssen jedwede Aufregung</font>
+<font color="#ffffff">von Ihrer Mutter fernhalten.</font>
+
+251
+00:30:06,600 --> 00:30:08,680
+<font color="#ffff00">Jedwede Aufregung?</font>
+
+252
+00:30:10,360 --> 00:30:12,720
+<font color="#ffffff">Es ist lebensbedrohlich.</font>
+
+253
+00:30:14,520 --> 00:30:19,000
+<font color="#ffff00">Und das hier? Ist das</font>
+<font color="#ffff00">kein Grund zur Aufregung?</font>
+
+254
+00:30:19,200 --> 00:30:22,680
+<font color="#ffff00">Meine Mutter weiß nichts</font>
+<font color="#ffff00">von der Wende.</font>
+
+255
+00:30:23,360 --> 00:30:26,160
+<font color="#ffff00">Hier erfährt sie alles sofort.</font>
+
+256
+00:30:28,840 --> 00:30:30,920
+<font color="#ffffff">Deine Enkeltochter.</font>
+
+257
+00:30:37,680 --> 00:30:39,800
+<font color="#00ff00">Was ist passiert?</font>
+
+258
+00:30:40,280 --> 00:30:43,520
+<font color="#ffff00">Du bist umgekippt.</font>
+<font color="#ffffff">- Vor 8 Monaten.</font>
+
+259
+00:30:45,560 --> 00:30:48,360
+<font color="#00ff00">Vor ...8 Monaten?</font>
+
+260
+00:30:51,320 --> 00:30:54,080
+<font color="#00ff00">Kann mich gar nicht erinnern.</font>
+
+261
+00:30:54,560 --> 00:30:58,600
+<font color="#ffff00">Das ist normal, das kommt wieder.</font>
+<font color="#ffff00">Hab Geduld!</font>
+
+262
+00:30:59,280 --> 00:31:01,640
+<font color="#00ff00">Und was war da?</font>
+
+263
+00:31:03,120 --> 00:31:05,280
+<font color="#ffffff">Das war...</font>
+
+264
+00:31:05,480 --> 00:31:09,240
+<font color="#ffff00">Es war im Oktober,</font>
+<font color="#ffff00">du wolltest einkaufen.</font>
+
+265
+00:31:09,440 --> 00:31:13,520
+<font color="#ffff00">Da war eine lange Schlange</font>
+<font color="#ffff00">vor der Kaufhalle.</font>
+
+266
+00:31:13,760 --> 00:31:17,280
+<font color="#ffff00">Es war so heiß,</font>
+<font color="#ffff00">dass du umgekippt bist.</font>
+
+267
+00:31:17,520 --> 00:31:20,920
+<font color="#00ff00">Im Oktober?</font>
+<font color="#ffff00">- Es war ein heißer Oktober.</font>
+
+268
+00:31:22,000 --> 00:31:24,080
+<font color="#ffff00">Damals.</font>
+
+269
+00:31:25,160 --> 00:31:27,240
+<font color="#00ff00">Ja. Und dann?</font>
+
+270
+00:31:28,720 --> 00:31:30,880
+<font color="#ffffff">Du warst im Koma, Mama.</font>
+
+271
+00:31:36,360 --> 00:31:38,520
+<font color="#00ff00">Ich will nach Hause.</font>
+
+272
+00:31:38,720 --> 00:31:44,520
+<font color="#ffff00">Ich verspreche es dir. Wir wollen</font>
+<font color="#ffff00">doch deinen Geburtstag feiern.</font>
+
+273
+00:31:45,800 --> 00:31:50,160
+<font color="#ffffff">Das ist Wahnsinn!</font>
+<font color="#ffff00">- Wir lassen sie nicht im Stich.</font>
+
+274
+00:31:50,400 --> 00:31:54,960
+<font color="#ffffff">Mama ist todkrank,</font>
+<font color="#ffffff">sie ist hier besser aufgehoben.</font>
+
+275
+00:31:55,160 --> 00:31:57,520
+<font color="#ffffff">Sei realistisch!</font>
+<font color="#ffff00">- Nein, du!</font>
+
+276
+00:31:57,760 --> 00:32:01,720
+<font color="#ffff00">Was passiert, wenn sich</font>
+<font color="#ffff00">jemand verplappert?</font>
+
+277
+00:32:01,920 --> 00:32:05,800
+<font color="#ffff00">Hier erkennt sie bald,</font>
+<font color="#ffff00">was draußen los ist.</font>
+
+278
+00:32:06,040 --> 00:32:08,400
+<font color="#ffff00">Das verkraftet sie nicht.</font>
+
+279
+00:32:09,560 --> 00:32:12,720
+<font color="#ffff00">Der ganze Krempel muss hier raus.</font>
+
+280
+00:32:13,640 --> 00:32:18,720
+<font color="#ffff00">Sind Mamas Gardinen im Keller?</font>
+<font color="#ffffff">- Das ist nicht dein Ernst.</font>
+
+281
+00:32:18,960 --> 00:32:22,720
+<font color="#ffff00">Die sind ja gedübelt!</font>
+<font color="#ffffff">- Na bravo!</font>
+
+282
+00:32:23,080 --> 00:32:25,880
+<font color="#ffff00">Das muss neu verputzt werden.</font>
+
+283
+00:32:26,080 --> 00:32:30,440
+<font color="#ffffff">Was hat der vor?</font>
+<font color="#ffff00">- Kannst du dir das nicht denken?</font>
+
+284
+00:32:30,680 --> 00:32:34,080
+<font color="#ffffff">Was denn?</font>
+<font color="#ffff00">- Ihr müsst das Zimmer räumen.</font>
+
+285
+00:32:34,600 --> 00:32:37,720
+<font color="#ffffff">Ich zahle seit Monaten die Miete.</font>
+
+286
+00:32:37,960 --> 00:32:42,240
+<font color="#ffff00">47,80 DM, das zahlst</font>
+<font color="#ffff00">du im Westen fürs Telefon.</font>
+
+287
+00:32:42,480 --> 00:32:46,320
+<font color="#ffffff">Im Osten wartest</font>
+<font color="#ffffff">du 10 Jahre aufs Telefon.</font>
+
+288
+00:32:46,600 --> 00:32:52,200
+<font color="#ffff00">Das Zimmer muss aussehen wie</font>
+<font color="#ffff00">früher. Mama soll im Bett liegen.</font>
+
+289
+00:32:52,440 --> 00:32:55,160
+<font color="#ffff00">Es geht nur um dieses Zimmer.</font>
+
+290
+00:32:55,400 --> 00:32:58,440
+<font color="#ffffff">Kapierst du nicht, Mama wird...</font>
+
+291
+00:32:58,680 --> 00:33:03,560
+<font color="#ffff00">Du wolltest schon vor Monaten</font>
+<font color="#ffff00">die Apparate abschalten.</font>
+
+292
+00:33:03,800 --> 00:33:06,640
+<font color="#ffffff">Das war eine andere Situation.</font>
+
+293
+00:33:06,880 --> 00:33:12,000
+<font color="#ffff00">Willst du Mama sagen,</font>
+<font color="#ffff00">dass du jetzt Hamburger verkaufst?</font>
+
+294
+00:33:12,200 --> 00:33:17,960
+<font color="#ffff00">"Vielen Dank, dass Sie sich für</font>
+<font color="#ffff00">Burger King entschieden haben."</font>
+
+295
+00:33:29,600 --> 00:33:31,720
+<font color="#00ffff">Achter Stock?</font>
+<font color="#ffff00">- Ja!</font>
+
+296
+00:33:32,080 --> 00:33:34,200
+<font color="#00ffff">Fahrstuhl?</font>
+<font color="#ffff00">- Kaputt.</font>
+
+297
+00:33:34,440 --> 00:33:36,840
+<font color="#00ffff">Scheiße.</font>
+<font color="#ffff00">- Real existierende.</font>
+
+298
+00:34:11,320 --> 00:34:14,480
+<font color="#ffff00">Mein Leben veränderte sich stark.</font>
+
+299
+00:34:14,800 --> 00:34:20,760
+<font color="#ffff00">Der Tag, an dem wir Mutter holen</font>
+<font color="#ffff00">wollten, kam unerbittlich näher.</font>
+
+300
+00:34:20,960 --> 00:34:26,400
+<font color="#ffffff">Du warst an meinem Schrank?</font>
+<font color="#ffff00">- Nein, in der Altkleidersammlung.</font>
+
+301
+00:34:26,840 --> 00:34:30,160
+<font color="#ffff00">Wie läufst du rum?</font>
+<font color="#ffff00">Denk doch mal mit!</font>
+
+302
+00:34:30,400 --> 00:34:33,560
+<font color="#ffffff">So einen Schrott hatten wir an.</font>
+
+303
+00:34:37,280 --> 00:34:42,640
+<font color="#ffffff">Die Krankengymnastin kommt 3-mal</font>
+<font color="#ffffff">die Woche, noch Fragen?</font>
+
+304
+00:34:43,080 --> 00:34:47,920
+<font color="#ffffff">Ihre Mutter geht auf eigene</font>
+<font color="#ffffff">Verantwortung nach Hause.</font>
+
+305
+00:34:48,160 --> 00:34:52,480
+<font color="#ffffff">Ich halte nichts davon.</font>
+<font color="#ffff00">- Wo ist der letzte Arzt?</font>
+
+306
+00:34:52,680 --> 00:34:58,000
+<font color="#ffffff">Er ist nach Düsseldorf gegangen.</font>
+<font color="#ffff00">- Und wann hauen Sie ab?</font>
+
+307
+00:34:58,440 --> 00:35:02,560
+<font color="#ffff00">Sie wollen mir was von</font>
+<font color="#ffff00">Verantwortung erzählen.</font>
+
+308
+00:35:05,840 --> 00:35:09,080
+<font color="#ffffff">Legen Sie sich bitte mal kurz hin!</font>
+
+309
+00:35:10,040 --> 00:35:13,400
+<font color="#ffff00">Wieso?</font>
+<font color="#ffffff">- Bitte, legen Sie sich mal hin!</font>
+
+310
+00:35:20,320 --> 00:35:26,080
+<font color="#ffffff">Bei einem Herzstillstand kurze,</font>
+<font color="#ffffff">kräftige Schläge auf die Brust!</font>
+
+311
+00:35:27,840 --> 00:35:31,200
+<font color="#ffff00">Sie darf nicht aufwachen.</font>
+<font color="#ffffff">- Alles klar.</font>
+
+312
+00:35:31,480 --> 00:35:37,080
+<font color="#ffff00">Ariane und ich wechseln uns ab.</font>
+<font color="#ffff00">Einer wird immer bei ihr sein.</font>
+
+313
+00:35:37,320 --> 00:35:39,560
+<font color="#ffff00">Wir schaffen das schon.</font>
+
+314
+00:35:39,760 --> 00:35:44,200
+<font color="#ffffff">Die Bürger der DDR tauschen</font>
+<font color="#ffffff">Ihre Ersparnisse um.</font>
+
+315
+00:35:44,560 --> 00:35:49,120
+<font color="#ffffff">Die Frist läuft bald ab.</font>
+<font color="#ffffff">Und wer zu spät kommt...</font>
+
+316
+00:35:49,320 --> 00:35:53,280
+<font color="#ffff00">Entschuldigung?</font>
+<font color="#ffffff">- ...den bestraft das Leben.</font>
+
+317
+00:35:53,480 --> 00:35:58,480
+<font color="#ffff00">Machen Sie das Radio leiser,</font>
+<font color="#ffff00">meine Mutter braucht Ruhe.</font>
+
+318
+00:36:03,680 --> 00:36:08,720
+<font color="#00ff00">Willst du uns nicht vorstellen?</font>
+<font color="#ffff00">- Natürlich, das ist Lara.</font>
+
+319
+00:36:09,440 --> 00:36:11,520
+<font color="#00ff00">Hallo Lara.</font>
+
+320
+00:36:24,960 --> 00:36:27,000
+<font color="#ffff00">Lasst ihr mich vorbei?</font>
+
+321
+00:36:30,760 --> 00:36:32,880
+<font color="#ffffff">Hallo Christiane!</font>
+
+322
+00:36:35,200 --> 00:36:40,800
+<font color="#ffffff">Alex, was ist denn los? Hallo? Alex!</font>
+
+323
+00:36:51,400 --> 00:36:54,880
+<font color="#00ff00">Hier hat sich ja</font>
+<font color="#00ff00">gar nichts verändert.</font>
+
+324
+00:36:55,080 --> 00:36:58,800
+<font color="#ffff00">Was soll sich auch</font>
+<font color="#ffff00">schon verändert haben?</font>
+
+325
+00:36:59,040 --> 00:37:03,720
+<font color="#ffff00">Wenn dir langweilig ist,</font>
+<font color="#ffff00">kannst du Kassetten hören.</font>
+
+326
+00:37:03,920 --> 00:37:08,880
+<font color="#ffff00">Das Radioteil ist kaputt,</font>
+<font color="#ffff00">aber das repariere ich noch.</font>
+
+327
+00:37:13,800 --> 00:37:18,680
+<font color="#00ff00">Schön, wenn man weiß,</font>
+<font color="#00ff00">dass man nicht alleine ist.</font>
+
+328
+00:37:19,920 --> 00:37:22,280
+<font color="#00ff00">Als euer Vater damals...</font>
+
+329
+00:37:26,360 --> 00:37:29,160
+<font color="#00ff00">Als er plötzlich weg war,...</font>
+
+330
+00:37:29,360 --> 00:37:34,040
+<font color="#00ff00">Ich habe nicht geglaubt,</font>
+<font color="#00ff00">dass ich das schaffen würde.</font>
+
+331
+00:37:38,920 --> 00:37:41,720
+<font color="#00ff00">Ich habe euch das nie erzählt.</font>
+
+332
+00:37:45,080 --> 00:37:48,600
+<font color="#00ff00">Ich habe daran gedacht,</font>
+<font color="#00ff00">mir was anzutun.</font>
+
+333
+00:37:53,400 --> 00:37:57,080
+<font color="#00ff00">Aber ihr habt mich ja</font>
+<font color="#00ff00">jeden Tag besucht.</font>
+
+334
+00:37:57,280 --> 00:38:01,960
+<font color="#00ff00">Du hast von der Schule erzählt</font>
+<font color="#00ff00">und von Sigmund Jähn.</font>
+
+335
+00:38:02,200 --> 00:38:04,520
+<font color="#ffff00">Das hast du mitbekommen?</font>
+
+336
+00:38:07,520 --> 00:38:12,240
+<font color="#00ff00">Es tut mir leid, dass ich</font>
+<font color="#00ff00">euch so viel Arbeit mache.</font>
+
+337
+00:38:12,640 --> 00:38:15,800
+<font color="#00ff00">Ich kann nicht mal</font>
+<font color="#00ff00">allein aufs Klo.</font>
+
+338
+00:38:16,040 --> 00:38:21,640
+<font color="#ffff00">Mama, das macht doch nichts.</font>
+<font color="#ffff00">Dass du gesund wirst ist wichtig.</font>
+
+339
+00:38:24,040 --> 00:38:26,120
+<font color="#00ff00">Ich gebe mir Mühe.</font>
+
+340
+00:38:26,920 --> 00:38:29,680
+<font color="#ffff00">Du musst dich jetzt ausruhen.</font>
+
+341
+00:38:31,400 --> 00:38:35,320
+<font color="#ffff00">Ich gehe was einkaufen,</font>
+<font color="#ffff00">aber Ariane ist da.</font>
+
+342
+00:38:37,520 --> 00:38:41,600
+<font color="#00ff00">Alex, ich habe Heißhunger</font>
+<font color="#00ff00">auf Spreewaldgurken.</font>
+
+343
+00:38:41,840 --> 00:38:45,600
+<font color="#00ff00">Bringst du welche mit?</font>
+<font color="#ffff00">- Kein Problem, Mama.</font>
+
+344
+00:38:46,960 --> 00:38:49,440
+<font color="#ffff00">Das dachte ich jedenfalls.</font>
+
+345
+00:38:52,160 --> 00:38:57,160
+<font color="#ffff00">Ende Juni 1990 leerten sich</font>
+<font color="#ffff00">die Kaufhallen unserer DDR.</font>
+
+346
+00:38:58,280 --> 00:39:02,800
+<font color="#ffff00">Und aus dem Land hinter der Mauer</font>
+<font color="#ffff00">kam echtes Geld.</font>
+
+347
+00:39:06,680 --> 00:39:12,800
+<font color="#ffff00">Die meisten Bürger standen vor den</font>
+<font color="#ffff00">Sparkassen wie gewohnt Schlange.</font>
+
+348
+00:39:13,000 --> 00:39:17,520
+<font color="#ffff00">Doch wir suchten fieberhaft</font>
+<font color="#ffff00">nach Mutters Sparbuch.</font>
+
+349
+00:39:25,200 --> 00:39:31,520
+<font color="#ffff00">Von allen ersehnt, überflutete die</font>
+<font color="#ffff00">D-Mark unsere kleine Gesellschaft.</font>
+
+350
+00:39:33,800 --> 00:39:38,680
+<font color="#ffffff">(Sie singen) ♪ Halleluja,</font>
+<font color="#ffffff">halleluja, D-Mark! ♪</font>
+
+351
+00:39:42,800 --> 00:39:47,320
+<font color="#ffff00">Getauscht wurde 2:1.</font>
+<font color="#ffff00">Deutschland gewann 1:0.</font>
+
+352
+00:39:47,800 --> 00:39:52,760
+<font color="#ffffff">Unhaltbar! Deutschland führt</font>
+<font color="#ffffff">1:0 durch Lothar Matthäus.</font>
+
+353
+00:40:05,800 --> 00:40:08,640
+<font color="#ffff00">Mokkafix?</font>
+<font color="#ffffff">- Haben wir nicht mehr.</font>
+
+354
+00:40:08,840 --> 00:40:11,880
+<font color="#ffff00">Filinchen Knäcke?</font>
+<font color="#ffffff">- Auch nicht mehr.</font>
+
+355
+00:40:12,120 --> 00:40:14,280
+<font color="#ffff00">Und Spreewaldgurken?</font>
+
+356
+00:40:14,480 --> 00:40:18,160
+<font color="#ffffff">Wo lebst du?</font>
+<font color="#ffffff">Wir haben jetzt die D-Mark.</font>
+
+357
+00:40:18,560 --> 00:40:24,400
+<font color="#ffff00">Unsere Kaufhalle hatte sich in ein</font>
+<font color="#ffff00">buntes Warenparadies verwandelt.</font>
+
+358
+00:40:24,840 --> 00:40:27,520
+<font color="#ffff00">Ich wurde als Kunde zum König.</font>
+
+359
+00:40:27,760 --> 00:40:29,840
+<font color="#ffffff">Die sind aus Holland.</font>
+
+360
+00:40:34,520 --> 00:40:36,680
+<font color="#ffff00">Tag, Herr Ganske.</font>
+
+361
+00:40:45,440 --> 00:40:51,200
+<font color="#ffffff">So weit haben die uns schon, dass</font>
+<font color="#ffffff">wir im Müll rumfischen müssen.</font>
+
+362
+00:40:51,440 --> 00:40:54,440
+<font color="#ffff00">Haben Sie noch Spreewaldgurken?</font>
+
+363
+00:40:54,920 --> 00:40:57,040
+<font color="#ffffff">Was?</font>
+<font color="#ffff00">- Spreewaldgurken!</font>
+
+364
+00:40:58,080 --> 00:41:02,840
+<font color="#ffffff">Tut mir leid, junger Mann,</font>
+<font color="#ffffff">ich bin selbst arbeitslos.</font>
+
+365
+00:41:03,080 --> 00:41:06,320
+<font color="#ffff00">Ein leeres Glas würde es auch tun.</font>
+
+366
+00:41:30,080 --> 00:41:33,760
+<font color="#ffffff">Ich wollte Rainer</font>
+<font color="#ffffff">heute Mama vorstellen.</font>
+
+367
+00:41:33,960 --> 00:41:37,640
+<font color="#ffff00">Später. Wir wollen sie</font>
+<font color="#ffff00">nicht überfordern.</font>
+
+368
+00:41:42,960 --> 00:41:45,600
+<font color="#ffffff">Vielleicht hast du ja Recht.</font>
+
+369
+00:41:45,840 --> 00:41:47,960
+<font color="#ffff00">Ja.</font>
+
+370
+00:41:48,680 --> 00:41:53,520
+<font color="#ffff00">Spreewaldgurken hatten</font>
+<font color="#ffff00">Lieferschwierigkeiten, leider.</font>
+
+371
+00:41:53,840 --> 00:41:57,120
+<font color="#00ff00">Macht nichts,</font>
+<font color="#00ff00">die sind ja auch gut.</font>
+
+372
+00:42:00,160 --> 00:42:05,000
+<font color="#00ff00">Kinder, ihr müsst euch</font>
+<font color="#00ff00">nicht ständig um mich kümmern.</font>
+
+373
+00:42:05,200 --> 00:42:07,800
+<font color="#00ff00">Das ist mir unangenehm.</font>
+<font color="#ffff00">- Mama!</font>
+
+374
+00:42:08,080 --> 00:42:14,080
+<font color="#00ff00">Wirklich. Vielleicht könnt ihr mir</font>
+<font color="#00ff00">den Fernseher ans Bett stellen.</font>
+
+375
+00:42:14,320 --> 00:42:18,640
+<font color="#ffffff">Fernsehgucken ist noch</font>
+<font color="#ffffff">zu anstrengend für dich.</font>
+
+376
+00:42:18,840 --> 00:42:24,040
+<font color="#00ff00">Das soll zu anstrengend sein?</font>
+<font color="#ffff00">- Wir werden den Arzt fragen.</font>
+
+377
+00:42:27,440 --> 00:42:31,080
+<font color="#ffffff">Mama, wir müssen was</font>
+<font color="#ffffff">mit dir besprechen.</font>
+
+378
+00:42:31,800 --> 00:42:36,520
+<font color="#ffff00">Es ist nämlich so,</font>
+<font color="#ffff00">wir wollten dich fragen, ob...</font>
+
+379
+00:42:36,840 --> 00:42:41,160
+<font color="#ffffff">Wir brauchen eine Bankvollmacht</font>
+<font color="#ffffff">für dein Konto.</font>
+
+380
+00:42:41,360 --> 00:42:44,200
+<font color="#00ff00">Was ist los? Braucht ihr Geld?</font>
+
+381
+00:42:44,560 --> 00:42:50,320
+<font color="#ffff00">Nein, nein. Aber du kannst ja</font>
+<font color="#ffff00">nicht mehr selber zur Bank gehen.</font>
+
+382
+00:42:52,000 --> 00:42:57,360
+<font color="#ffff00">Es wäre besser, wenn du</font>
+<font color="#ffff00">das hier unterschreiben würdest.</font>
+
+383
+00:42:58,640 --> 00:43:02,280
+<font color="#ffffff">Ja, und vielleicht</font>
+<font color="#ffffff">am besten gleich.</font>
+
+384
+00:43:09,000 --> 00:43:11,200
+<font color="#00ff00">Hat das nicht Zeit?</font>
+
+385
+00:43:14,760 --> 00:43:19,560
+<font color="#00ff00">Ihr verheimlicht mir doch was.</font>
+<font color="#00ff00">Ist was passiert?</font>
+
+386
+00:43:19,920 --> 00:43:22,640
+<font color="#ffffff">Vertrau uns, es ist wichtig.</font>
+
+387
+00:43:22,840 --> 00:43:27,160
+<font color="#00ff00">Ich will wissen, wofür ich</font>
+<font color="#00ff00">euch mein Geld gebe.</font>
+
+388
+00:43:28,320 --> 00:43:33,280
+<font color="#ffff00">Na gut. Es sollte eigentlich</font>
+<font color="#ffff00">eine Überraschung werden.</font>
+
+389
+00:43:35,400 --> 00:43:40,360
+<font color="#ffff00">Wir haben eine Benachrichtigung</font>
+<font color="#ffff00">bekommen, aus Zwickau.</font>
+
+390
+00:43:40,560 --> 00:43:45,320
+<font color="#ffff00">Wir können den Trabant abholen.</font>
+<font color="#00ff00">- Schon nach 3 Jahren?</font>
+
+391
+00:43:45,680 --> 00:43:48,280
+<font color="#ffffff">Dazu brauchen wir das Geld.</font>
+
+392
+00:43:52,680 --> 00:43:56,920
+<font color="#00ff00">Denkt ihr, dass ich mein Geld</font>
+<font color="#00ff00">auf der Bank habe?</font>
+
+393
+00:43:59,840 --> 00:44:02,000
+<font color="#00ff00">Ich habs versteckt.</font>
+
+394
+00:44:04,200 --> 00:44:06,240
+<font color="#ffff00">Und wo?</font>
+<font color="#ffffff">- Wo?</font>
+
+395
+00:44:12,960 --> 00:44:15,080
+<font color="#00ff00">Ich habs vergessen.</font>
+
+396
+00:44:18,080 --> 00:44:23,280
+<font color="#00ff00">Total vergessen. Ist alles weg.</font>
+<font color="#ffff00">- Mama, denk doch mal nach!</font>
+
+397
+00:44:32,200 --> 00:44:37,320
+<font color="#00ff00">Vater kommt heute aber spät</font>
+<font color="#00ff00">nach Hause, findet ihr nicht?</font>
+
+398
+00:45:00,000 --> 00:45:02,120
+<font color="#ffffff">Mama.</font>
+
+399
+00:45:02,800 --> 00:45:07,320
+<font color="#ffffff">Das ist nicht so schlimm.</font>
+<font color="#ffffff">Bald geht es dir besser.</font>
+
+400
+00:45:08,160 --> 00:45:13,680
+<font color="#ffff00">Wir wollen doch bald deinen</font>
+<font color="#ffff00">Geburtstag feiern, wie jedes Jahr.</font>
+
+401
+00:45:13,880 --> 00:45:19,120
+<font color="#ffff00">Mit der Hausgemeinschaft. Wir</font>
+<font color="#ffff00">haben ihn doch immer gefeiert.</font>
+
+402
+00:45:24,160 --> 00:45:29,800
+<font color="#ffffff">Hier ist das Erste Deutsche</font>
+<font color="#ffffff">Fernsehen mit der Tagesschau.</font>
+
+403
+00:45:30,240 --> 00:45:32,960
+<font color="#00ff00">Genosse Ganske guckt Westen?</font>
+
+404
+00:45:39,160 --> 00:45:45,400
+<font color="#ffff00">Genosse Ganske hat sich in Ungarn</font>
+<font color="#ffff00">in eine Münchnerin verliebt.</font>
+
+405
+00:45:46,600 --> 00:45:50,200
+<font color="#ffff00">Seitdem hat</font>
+<font color="#ffff00">seine Parteiliebe gelitten.</font>
+
+406
+00:45:51,960 --> 00:45:55,400
+<font color="#ffff00">Ja. Bist du fertig?</font>
+
+407
+00:45:59,160 --> 00:46:01,880
+<font color="#ffff00">Tut mir leid, ich bin zu spät.</font>
+
+408
+00:46:02,120 --> 00:46:05,320
+<font color="#ffffff">Da oben ist sie,</font>
+<font color="#ffffff">sogar mit Balkon.</font>
+
+409
+00:46:05,520 --> 00:46:10,560
+<font color="#ffff00">Einige Bürger kamen nicht aus</font>
+<font color="#ffff00">dem Ungarn-Urlaub zurück.</font>
+
+410
+00:46:10,760 --> 00:46:16,880
+<font color="#ffff00">Also gab es verlassene Wohnungen,</font>
+<font color="#ffff00">in die wir nur einziehen mussten.</font>
+
+411
+00:46:17,080 --> 00:46:22,400
+<font color="#ffffff">Der Typ ist seit letztem Jahr</font>
+<font color="#ffffff">im Westen, sagt ein Kollege.</font>
+
+412
+00:47:15,560 --> 00:47:20,120
+<font color="#ffffff">Wahnsinn, das funktioniert!</font>
+<font color="#ffff00">- Wahnsinn, Tempobohnen!</font>
+
+413
+00:47:20,320 --> 00:47:23,680
+<font color="#ffff00">Globusgrüne Erbsen!</font>
+<font color="#ffff00">Das gibts nicht!</font>
+
+414
+00:47:24,400 --> 00:47:27,880
+<font color="#ffff00">Mokkafix Gold,</font>
+<font color="#ffff00">danach habe ich gesucht.</font>
+
+415
+00:47:38,920 --> 00:47:41,000
+<font color="#ffff00">Kann ich die haben?</font>
+
+416
+00:48:11,720 --> 00:48:13,800
+<font color="#ffff00">Ich muss los.</font>
+
+417
+00:48:17,520 --> 00:48:19,680
+<font color="#ffffff">Weiter schlafen!</font>
+
+418
+00:48:43,720 --> 00:48:46,680
+<font color="#ffff00">Morgen, Mama.</font>
+<font color="#00ff00">- Morgen, Alex.</font>
+
+419
+00:48:49,800 --> 00:48:53,240
+<font color="#00ff00">Hast du es eilig?</font>
+<font color="#ffff00">- Ich muss zur Arbeit.</font>
+
+420
+00:48:53,480 --> 00:48:58,320
+<font color="#00ff00">Denkst du an den Fernseher?</font>
+<font color="#ffff00">- Wir reden später darüber.</font>
+
+421
+00:48:58,520 --> 00:49:02,240
+<font color="#00ff00">Ladet Klapprath</font>
+<font color="#00ff00">zu meinem Geburtstag ein.</font>
+
+422
+00:49:02,920 --> 00:49:07,280
+<font color="#ffff00">Jetzt will sie fernsehen,</font>
+<font color="#ffff00">was soll ich machen?</font>
+
+423
+00:49:07,520 --> 00:49:10,480
+<font color="#00ffff">Houston, wir haben ein Problem.</font>
+
+424
+00:49:12,120 --> 00:49:14,840
+<font color="#00ffff">Und jetzt?</font>
+<font color="#ffff00">- Hast du keine Idee?</font>
+
+425
+00:49:15,080 --> 00:49:18,680
+<font color="#00ffff">Ich meine das Bild.</font>
+<font color="#ffff00">- Ach so.</font>
+
+426
+00:49:24,720 --> 00:49:26,840
+<font color="#00ffff">Jetzt?</font>
+<font color="#ffff00">- Nee.</font>
+
+427
+00:49:27,040 --> 00:49:30,640
+<font color="#ffffff">Halbfinale! Ich gehe</font>
+<font color="#ffffff">rüber zu Pollnicks.</font>
+
+428
+00:49:30,880 --> 00:49:32,960
+<font color="#ffffff">Dann geh doch!</font>
+
+429
+00:49:34,720 --> 00:49:37,880
+<font color="#ffff00">Sind das Gurken aus dem Spreewald?</font>
+
+430
+00:49:38,800 --> 00:49:40,960
+<font color="#ffffff">Nee, aus Holland.</font>
+
+431
+00:49:44,120 --> 00:49:47,240
+<font color="#00ffff">Zeig ihr doch was Altes.</font>
+<font color="#ffff00">- Wie jetzt?</font>
+
+432
+00:49:47,480 --> 00:49:50,560
+<font color="#00ffff">Altes Ost-Fernsehzeug auf Video.</font>
+
+433
+00:49:50,760 --> 00:49:56,720
+<font color="#ffff00">Alte Nachrichten? Das merkt sie.</font>
+<font color="#00ffff">- Nein, war doch immer das Gleiche.</font>
+
+434
+00:49:56,960 --> 00:50:00,120
+<font color="#ffff00">Woher soll ich die Videos kriegen?</font>
+
+435
+00:50:01,440 --> 00:50:03,600
+<font color="#00ffff">Und? Wie stehts?</font>
+
+436
+00:50:04,000 --> 00:50:07,440
+<font color="#ffffff">Rudi Völler.</font>
+<font color="#ffffff">Sie wollens nicht sehen.</font>
+
+437
+00:50:09,640 --> 00:50:12,720
+<font color="#ffffff">Deutschland ist im Endspiel!</font>
+
+438
+00:50:17,000 --> 00:50:21,280
+<font color="#ffff00">Die Weltzeituhr raste</font>
+<font color="#ffff00">auf Mutters Geburtstag zu.</font>
+
+439
+00:50:21,560 --> 00:50:24,720
+<font color="#ffff00">Und ein Ball vereinte die Nation.</font>
+
+440
+00:50:24,920 --> 00:50:29,040
+<font color="#ffff00">Er ließ zusammenwachsen,</font>
+<font color="#ffff00">was zusammengehörte.</font>
+
+441
+00:50:29,320 --> 00:50:35,080
+<font color="#ffff00">Ich versuchte, in Mutters Zimmer</font>
+<font color="#ffff00">die DDR auferstehen zu lassen.</font>
+
+442
+00:50:35,280 --> 00:50:39,080
+<font color="#ffff00">Sind die Kreuzworträtsel</font>
+<font color="#ffff00">schon ausgefüllt?</font>
+
+443
+00:50:39,320 --> 00:50:43,800
+<font color="#ffffff">Unberührt wie Jungfrau.</font>
+<font color="#ffff00">- Super! Die nehme ich alle.</font>
+
+444
+00:50:44,640 --> 00:50:46,800
+<font color="#ffff00">Und die auch noch.</font>
+
+445
+00:50:49,200 --> 00:50:53,800
+<font color="#ffffff">Meine Tochter wurde von heute</font>
+<font color="#ffffff">auf morgen entlassen.</font>
+
+446
+00:50:54,760 --> 00:50:57,440
+<font color="#ffffff">Dafür haben wir 40 Jahre...</font>
+
+447
+00:50:57,680 --> 00:51:01,440
+<font color="#ffffff">Das Fernsehballett</font>
+<font color="#ffffff">wird auch abgewickelt.</font>
+
+448
+00:51:01,800 --> 00:51:05,080
+<font color="#ffff00">Um auf meine Mutter zurückzukommen.</font>
+
+449
+00:51:05,560 --> 00:51:09,240
+<font color="#ffff00">Sie hat von der Wende</font>
+<font color="#ffff00">nichts mitgekriegt.</font>
+
+450
+00:51:09,480 --> 00:51:11,440
+<font color="#ffffff">Beneidenswert.</font>
+
+451
+00:51:11,640 --> 00:51:17,240
+<font color="#ffff00">Sie feiert bald Geburtstag und</font>
+<font color="#ffff00">würde sich über Besuch freuen.</font>
+
+452
+00:51:17,600 --> 00:51:21,600
+<font color="#ffff00">Habt ihr das verstanden?</font>
+<font color="#ffff00">Kein falsches Wort!</font>
+
+453
+00:51:21,840 --> 00:51:24,880
+<font color="#ffffff">Und die 20 Mark?</font>
+<font color="#ffff00">- Erst die Arbeit!</font>
+
+454
+00:51:25,080 --> 00:51:31,160
+<font color="#ffff00">Die ersten Gäste waren eingeladen.</font>
+<font color="#ffff00">Andere mussten überzeugt werden.</font>
+
+455
+00:51:31,400 --> 00:51:37,160
+<font color="#ffff00">Viele aus Mutters Schule hatten</font>
+<font color="#ffff00">sich ins Private zurückgezogen.</font>
+
+456
+00:51:37,360 --> 00:51:41,440
+<font color="#ffff00">Auch Dr. Klapprath,</font>
+<font color="#ffff00">der ehemalige Schulleiter.</font>
+
+457
+00:51:41,680 --> 00:51:46,360
+<font color="#ffffff">Wir waren wertvolle Menschen.</font>
+<font color="#ffffff">Nicht wahr, Alex?</font>
+
+458
+00:51:47,160 --> 00:51:50,160
+<font color="#ffffff">Ich habe deine Mutter bewundert.</font>
+
+459
+00:51:50,840 --> 00:51:55,360
+<font color="#ffffff">Sie war eine gute Pädagogin</font>
+<font color="#ffffff">und ein guter Mensch.</font>
+
+460
+00:51:56,680 --> 00:52:00,000
+<font color="#ffff00">Deshalb wurde sie</font>
+<font color="#ffff00">auch kaltgestellt.</font>
+
+461
+00:52:01,920 --> 00:52:07,680
+<font color="#ffffff">Einigen Genossen im Kollektiv</font>
+<font color="#ffffff">war sie zu... idealistisch.</font>
+
+462
+00:52:08,640 --> 00:52:10,720
+<font color="#ffffff">Seit dein Vater...</font>
+
+463
+00:52:14,600 --> 00:52:16,960
+<font color="#ffffff">Ihr Idealismus in Ehren.</font>
+
+464
+00:52:17,880 --> 00:52:23,240
+<font color="#ffffff">Aber im Schulalltag kann das</font>
+<font color="#ffffff">manchmal problematisch werden.</font>
+
+465
+00:52:23,680 --> 00:52:27,000
+<font color="#ffff00">Da habt ihr sie</font>
+<font color="#ffff00">einfach abserviert.</font>
+
+466
+00:52:30,800 --> 00:52:34,040
+<font color="#ffff00">Sie sind ihr trotzdem</font>
+<font color="#ffff00">was schuldig.</font>
+
+467
+00:52:34,280 --> 00:52:36,440
+<font color="#ffffff">Ja.</font>
+
+468
+00:52:41,320 --> 00:52:44,960
+<font color="#ffff00">Du bist Dispatcher.</font>
+<font color="#ffffff">- Dispatcher im Osten?</font>
+
+469
+00:52:45,200 --> 00:52:50,800
+<font color="#ffff00">Klar. Du organisierst den Einkauf</font>
+<font color="#ffff00">in einem Mitropa Restaurant.</font>
+
+470
+00:52:51,040 --> 00:52:54,200
+<font color="#ffff00">Schulausbildung EOS Juri Gagarin.</font>
+
+471
+00:52:54,400 --> 00:52:59,080
+<font color="#ffff00">Bei den Pionieren warst du</font>
+<font color="#ffff00">Gruppenratsvorsitzender.</font>
+
+472
+00:52:59,280 --> 00:53:05,360
+<font color="#ffffff">Ich stecke meine Tochter nicht in</font>
+<font color="#ffffff">Plastikwindeln. Das geht zu weit.</font>
+
+473
+00:53:07,160 --> 00:53:10,320
+<font color="#ffff00">Hast dus?</font>
+<font color="#ffffff">- Gruppenratsvorsitzender.</font>
+
+474
+00:53:10,680 --> 00:53:14,960
+<font color="#00ffff">30 mal "Aktuelle Kamera"</font>
+<font color="#00ffff">und "Schwarzer Kanal".</font>
+
+475
+00:53:15,200 --> 00:53:19,360
+<font color="#00ffff">Sechsmal "Kessel Buntes"</font>
+<font color="#00ffff">und "Ein Tag im Westen".</font>
+
+476
+00:53:19,560 --> 00:53:24,560
+<font color="#00ffff">Alles von der Landesbildstelle.</font>
+<font color="#ffff00">- Hoffentlich geht das gut.</font>
+
+477
+00:53:27,800 --> 00:53:32,320
+<font color="#00ff00">Was machst du am Boden?</font>
+<font color="#ffff00">- Das ist das Antennenkabel.</font>
+
+478
+00:53:43,520 --> 00:53:47,560
+<font color="#ffffff">Die Fußball-WM ist ein Geschenk</font>
+<font color="#ffffff">des Himmels.</font>
+
+479
+00:53:47,760 --> 00:53:53,000
+<font color="#ffffff">Die beste Zeit, um den Osten</font>
+<font color="#ffffff">mit Sat-Anlagen zu versorgen.</font>
+
+480
+00:53:53,240 --> 00:53:55,480
+<font color="#ffffff">Kommen wir zur Phase 3!</font>
+
+481
+00:54:00,400 --> 00:54:04,160
+<font color="#00ff00">Was war das?</font>
+<font color="#ffff00">- Wahrscheinlich Interferenzen.</font>
+
+482
+00:54:04,400 --> 00:54:07,560
+<font color="#ffffff">Guten Abend zur Aktuellen Kamera.</font>
+
+483
+00:54:07,760 --> 00:54:11,280
+<font color="#ffffff">Schwere Provokation</font>
+<font color="#ffffff">gegen Staatsgrenze.</font>
+
+484
+00:54:11,520 --> 00:54:14,840
+<font color="#ffffff">Protest im Bundeskanzleramt</font>
+<font color="#ffffff">der BRD.</font>
+
+485
+00:54:16,520 --> 00:54:21,280
+<font color="#00ff00">Draußen gehts voran.</font>
+<font color="#00ff00">Ich fühle mich hier so nutzlos.</font>
+
+486
+00:54:21,520 --> 00:54:23,680
+<font color="#00ff00">Häng einen Zettel auf.</font>
+
+487
+00:54:23,880 --> 00:54:28,040
+<font color="#00ff00">Alle, die Probleme haben,</font>
+<font color="#00ff00">können zu mir kommen.</font>
+
+488
+00:54:28,280 --> 00:54:34,840
+<font color="#00ff00">Eingaben kann ich doch schreiben.</font>
+<font color="#ffff00">- Du darfst dich nicht anstrengen.</font>
+
+489
+00:54:37,360 --> 00:54:40,640
+<font color="#ffffff">Morgen, Alex. Ist es schon so weit?</font>
+
+490
+00:54:49,920 --> 00:54:52,000
+<font color="#ffffff">Auch einen Schluck?</font>
+
+491
+00:54:52,480 --> 00:54:54,560
+<font color="#ffff00">Ach du Scheiße!</font>
+
+492
+00:54:55,720 --> 00:54:57,840
+<font color="#ffffff">Scheiße! Scheiße, ne?</font>
+
+493
+00:54:58,440 --> 00:55:02,000
+<font color="#ffffff">Scheiße, Mensch!</font>
+<font color="#ffffff">Verdammte Schei...</font>
+
+494
+00:55:16,560 --> 00:55:18,680
+<font color="#ffffff">Mir ist schlecht.</font>
+
+495
+00:55:21,920 --> 00:55:27,560
+<font color="#ffff00">Viele hielten sich schon lautstark</font>
+<font color="#ffff00">für die Meister von morgen.</font>
+
+496
+00:55:27,800 --> 00:55:33,000
+<font color="#ffff00">Doch aus Mutters Schlafzimmer</font>
+<font color="#ffff00">drangen Klänge von gestern.</font>
+
+497
+00:55:33,200 --> 00:55:39,120
+<font color="#ffffff">(Gesang) "Unsere Heimat, das sind</font>
+<font color="#ffffff">nicht nur die Städte und Dörfer."</font>
+
+498
+00:55:39,360 --> 00:55:43,680
+<font color="#ffffff">"Unsere Heimat sind auch</font>
+<font color="#ffffff">all die Bäume im Wald."</font>
+
+499
+00:55:44,200 --> 00:55:52,640
+<font color="#ffffff">"Unsere Heimat ist das Gras auf</font>
+<font color="#ffffff">der Wiese, das Korn auf dem Feld."</font>
+
+500
+00:55:53,440 --> 00:56:00,920
+<font color="#ffffff">"Und die Vögel in der Luft</font>
+<font color="#ffffff">und die Tiere der Erde."</font>
+
+501
+00:56:01,440 --> 00:56:06,760
+<font color="#ffffff">"Und die Fische im Fluss</font>
+<font color="#ffffff">sind die Heimat."</font>
+
+502
+00:56:16,360 --> 00:56:19,560
+<font color="#00ff00">Das war wunderschön.</font>
+<font color="#00ff00">Danke, Kinder.</font>
+
+503
+00:56:20,440 --> 00:56:23,920
+<font color="#00ff00">Das habt ihr noch</font>
+<font color="#00ff00">bei mir gelernt, ja?</font>
+
+504
+00:56:26,040 --> 00:56:28,200
+<font color="#ffffff">Ja.</font>
+
+505
+00:56:31,720 --> 00:56:37,480
+<font color="#ffffff">Liebe Christiane, wir sind heute</font>
+<font color="#ffffff">hier, weil du Geburtstag hast.</font>
+
+506
+00:56:39,920 --> 00:56:46,880
+<font color="#ffffff">Und ich möchte dir, im Namen der</font>
+<font color="#ffffff">Parteileitung, alles Gute wünschen.</font>
+
+507
+00:56:47,880 --> 00:56:51,600
+<font color="#ffffff">Und... der Korb.</font>
+
+508
+00:56:54,760 --> 00:56:56,920
+<font color="#ffffff">Für dich.</font>
+
+509
+00:56:57,200 --> 00:57:00,440
+<font color="#00ff00">Das ist lieb von euch, danke schön.</font>
+
+510
+00:57:02,360 --> 00:57:04,480
+<font color="#ffffff">Klapprath!</font>
+
+511
+00:57:04,720 --> 00:57:10,920
+<font color="#ffffff">Rosenthaler Kadarka,</font>
+<font color="#ffffff">Mokkafix Gold! Globus grüne Erbsen!</font>
+
+512
+00:57:13,760 --> 00:57:22,000
+<font color="#ffffff">Die Kollegen und die Genossen von</font>
+<font color="#ffffff">der POS Werner Seelenbinder...</font>
+
+513
+00:57:22,560 --> 00:57:28,880
+<font color="#ffffff">...möchten ihren besonderen Dank</font>
+<font color="#ffffff">aussprechen, für all die Jahre,...</font>
+
+514
+00:57:30,760 --> 00:57:34,240
+<font color="#ffffff">...Christiane,</font>
+<font color="#ffffff">die du für sie als...</font>
+
+515
+00:57:35,200 --> 00:57:39,320
+<font color="#ffffff">...gute Kollegin und</font>
+<font color="#ffffff">liebe Genossin...</font>
+
+516
+00:57:40,960 --> 00:57:43,680
+<font color="#ffffff">...warst... ähm...</font>
+
+517
+00:57:44,080 --> 00:57:47,760
+<font color="#ffffff">Ich wünsche dir</font>
+<font color="#ffffff">alles Gute zum Geburtstag.</font>
+
+518
+00:57:48,120 --> 00:57:50,920
+<font color="#ffffff">Bleib, wie du bist, Christiane!</font>
+
+519
+00:57:58,800 --> 00:58:01,240
+<font color="#ffffff">Liebe Genossin Kerner,</font>
+
+520
+00:58:02,960 --> 00:58:05,520
+<font color="#ffffff">...alles erdenkliche Gute.</font>
+
+521
+00:58:06,680 --> 00:58:13,040
+<font color="#ffffff">Und Gesundheit. Und dass alles</font>
+<font color="#ffffff">wieder so wird, wie es mal war.</font>
+
+522
+00:58:16,760 --> 00:58:18,880
+<font color="#00ff00">Lara, komm mal her!</font>
+
+523
+00:58:23,800 --> 00:58:28,960
+<font color="#00ff00">Das hier ist Lara, eine</font>
+<font color="#00ff00">Schwesternschülerin aus der SU.</font>
+
+524
+00:58:29,920 --> 00:58:33,200
+<font color="#00ff00">Ihr Papa ist Lehrer</font>
+<font color="#00ff00">für Taubstumme.</font>
+
+525
+00:58:34,680 --> 00:58:38,400
+<font color="#00ff00">Heirate ihn bloß nicht zu früh!</font>
+<font color="#ffff00">- Mama!</font>
+
+526
+00:58:38,720 --> 00:58:43,600
+<font color="#00ff00">Na ja, auch wenn das dann</font>
+<font color="#00ff00">mit der Wohnung eher klappt.</font>
+
+527
+00:58:43,880 --> 00:58:48,000
+<font color="#00ff00">Mein Alex kann ein</font>
+<font color="#00ff00">ganz schöner Sturkopf sein.</font>
+
+528
+00:58:50,040 --> 00:58:55,640
+<font color="#00ff00">Und Rainer, das ist der</font>
+<font color="#00ff00">neue Freund von meiner Ariane.</font>
+
+529
+00:58:56,800 --> 00:59:01,160
+<font color="#00ff00">Er arbeitet als ähm ...</font>
+<font color="#ffff00">- Dispatcher.</font>
+
+530
+00:59:01,400 --> 00:59:03,920
+<font color="#ffffff">Genau, ich bin Dispatcher.</font>
+
+531
+00:59:04,120 --> 00:59:10,120
+<font color="#ffffff">Ich war ja selber mal bei den f...</font>
+<font color="#ffffff">Herzliches Glück auf, Pioniere!</font>
+
+532
+00:59:10,360 --> 00:59:14,680
+<font color="#ffffff">Ich war selber bei den Pionieren.</font>
+<font color="#ffff00">- Danke, Rainer.</font>
+
+533
+00:59:16,080 --> 00:59:18,160
+<font color="#ffffff">Als Gruppen... äh...</font>
+
+534
+00:59:18,920 --> 00:59:23,080
+<font color="#ffffff">...gau... Gruppenvorstand, früher.</font>
+
+535
+00:59:23,320 --> 00:59:25,480
+<font color="#ffff00">Danke schön!</font>
+
+536
+00:59:25,680 --> 00:59:28,120
+<font color="#ffffff">Seid bereit!</font>
+<font color="#ffff00">- Danke, Rainer!</font>
+
+537
+00:59:32,280 --> 00:59:37,600
+<font color="#ffff00">Ja, Mama, wieder ist ein Jahr um.</font>
+<font color="#ffff00">Was hat sich verändert?</font>
+
+538
+00:59:37,800 --> 00:59:43,560
+<font color="#ffff00">Nicht viel. Paula hat ihre Zähne</font>
+<font color="#ffff00">bekommen und einen neuen Papa.</font>
+
+539
+00:59:46,600 --> 00:59:52,360
+<font color="#ffff00">Wir können nicht im Cafe Moskau</font>
+<font color="#ffff00">feiern, aber wir sind zusammen.</font>
+
+540
+00:59:53,680 --> 00:59:59,480
+<font color="#ffff00">Wir haben es dir nicht leicht</font>
+<font color="#ffff00">gemacht, aber du warst für uns da.</font>
+
+541
+00:59:59,720 --> 01:00:05,120
+<font color="#ffff00">Und mir fällt keine bessere</font>
+<font color="#ffff00">Familie ein als unsere, danke.</font>
+
+542
+01:00:05,320 --> 01:00:08,840
+<font color="#ffff00">Mama, du bist</font>
+<font color="#ffff00">die beste Mutter der Welt.</font>
+
+543
+01:00:09,480 --> 01:00:11,520
+<font color="#00ff00">Alex, ...</font>
+<font color="#ffff00">- Was ist denn?</font>
+
+544
+01:00:12,120 --> 01:00:14,280
+<font color="#00ff00">Was ist denn das?</font>
+
+545
+01:00:17,200 --> 01:00:20,160
+<font color="#ffff00">Das ist...</font>
+<font color="#ffffff">- Was soll denn das?</font>
+
+546
+01:00:20,520 --> 01:00:23,360
+<font color="#ffffff">Was die Genossen da wieder...</font>
+
+547
+01:00:23,800 --> 01:00:26,920
+<font color="#ffffff">Eine Fata Morgana!</font>
+<font color="#ffffff">Aus dem Westen.</font>
+
+548
+01:00:30,760 --> 01:00:35,640
+<font color="#ffff00">Das wird seine Richtigkeit haben.</font>
+<font color="#ffffff">- Beruhige dich, Mama!</font>
+
+549
+01:00:37,800 --> 01:00:40,880
+<font color="#ffff00">Es gibt für alles eine Erklärung.</font>
+
+550
+01:00:44,080 --> 01:00:46,520
+<font color="#ffff00">Singt doch noch was! Lara!</font>
+
+551
+01:00:47,040 --> 01:00:49,120
+<font color="#ffff00">Warte kurz! Lara?</font>
+
+552
+01:00:49,800 --> 01:00:52,480
+<font color="#ffffff">"Bau auf! Bau auf!"</font>
+
+553
+01:00:55,880 --> 01:00:58,000
+<font color="#ffff00">Was ist los?</font>
+
+554
+01:00:58,400 --> 01:01:05,960
+<font color="#ffffff">(Sie singen) ♪ Für eine bessere</font>
+<font color="#ffffff">Zukunft bauen wir die Heimat auf. ♪</font>
+
+555
+01:01:06,360 --> 01:01:12,560
+<font color="#ffffff">Mir tut deine Mutter leid. Es ist</font>
+<font color="#ffffff">mir zu gruselig, was du da machst.</font>
+
+556
+01:01:13,960 --> 01:01:17,720
+<font color="#ffffff">Mein Vater ist</font>
+<font color="#ffffff">kein Lehrer für Taubstumme.</font>
+
+557
+01:01:17,960 --> 01:01:21,000
+<font color="#ffffff">Er war Koch, das weißt du genau.</font>
+
+558
+01:01:21,240 --> 01:01:26,280
+<font color="#ffff00">Hätte ich sagen sollen,</font>
+<font color="#ffff00">dass er tot ist? In ihrer Lage.</font>
+
+559
+01:01:27,960 --> 01:01:32,640
+<font color="#ffffff">Du meinst, wenn man sowieso lügt,</font>
+<font color="#ffffff">ist das auch egal?</font>
+
+560
+01:01:37,480 --> 01:01:39,600
+<font color="#ffff00">Lara!</font>
+
+561
+01:01:42,320 --> 01:01:47,880
+<font color="#ffffff">(Sie singen) ♪ Hoch soll</font>
+<font color="#ffffff">sie leben! 3-mal hoch! ♪</font>
+
+562
+01:01:57,760 --> 01:01:59,840
+<font color="#ffffff">(Denis summt)</font>
+
+563
+01:02:00,080 --> 01:02:02,600
+<font color="#ffff00">Noch ein Stück nach hinten!</font>
+
+564
+01:02:03,200 --> 01:02:05,320
+<font color="#ffff00">Noch ein Stück.</font>
+
+565
+01:02:05,560 --> 01:02:10,320
+<font color="#00ffff">Passen Sie auf, wir drehen!</font>
+<font color="#ffffff">- Mit welcher Genehmigung?</font>
+
+566
+01:02:10,520 --> 01:02:14,600
+<font color="#00ffff">Hat man Sie nicht informiert?</font>
+<font color="#ffffff">- Mich, wer denn?</font>
+
+567
+01:02:14,840 --> 01:02:17,680
+<font color="#00ffff">Wie war noch der Name?</font>
+<font color="#ffff00">- Mit "M".</font>
+
+568
+01:02:17,880 --> 01:02:21,960
+<font color="#ffffff">Ich frage nach,</font>
+<font color="#ffffff">so lange wird nichts gedreht.</font>
+
+569
+01:02:23,240 --> 01:02:25,800
+<font color="#00ffff">Logo im Bild?</font>
+<font color="#ffff00">- Ja.</font>
+
+570
+01:02:26,000 --> 01:02:28,080
+<font color="#00ffff">Schärfe auf mich?</font>
+<font color="#ffff00">- Ja.</font>
+
+571
+01:02:29,720 --> 01:02:35,120
+<font color="#00ffff">Wir warten noch auf Abendsonne.</font>
+<font color="#ffff00">- Der Typ kommt gleich wieder.</font>
+
+572
+01:02:35,360 --> 01:02:38,160
+<font color="#00ffff">Warte, Abendsonne kommt geil.</font>
+
+573
+01:02:38,440 --> 01:02:42,880
+<font color="#ffff00">Die Wahrheit war</font>
+<font color="#ffff00">eine zweifelhafte Angelegenheit.</font>
+
+574
+01:02:43,120 --> 01:02:48,880
+<font color="#ffff00">Ich konnte sie leicht Mutters</font>
+<font color="#ffff00">gewohnter Wahrnehmung angleichen.</font>
+
+575
+01:02:49,080 --> 01:02:54,400
+<font color="#ffff00">Ich musste nur die Sprache der</font>
+<font color="#ffff00">Aktuellen Kamera studieren.</font>
+
+576
+01:02:54,600 --> 01:02:58,520
+<font color="#ffff00">Und Denis Ehrgeiz</font>
+<font color="#ffff00">als Regisseur anstacheln.</font>
+
+577
+01:03:00,720 --> 01:03:05,040
+<font color="#00ffff">Günter Mittag, Wirtschaftssekretär</font>
+<font color="#00ffff">der SED,</font>
+
+578
+01:03:05,240 --> 01:03:08,600
+<font color="#00ffff">...besucht Coca-Cola</font>
+<font color="#00ffff">in West-Berlin.</font>
+
+579
+01:03:08,840 --> 01:03:12,880
+<font color="#00ffff">Grund des Besuchs</font>
+<font color="#00ffff">ist ein Handelsabkommen...</font>
+
+580
+01:03:13,080 --> 01:03:18,520
+<font color="#00ffff">...zwischen Coca-Cola und</font>
+<font color="#00ffff">dem VEB Getränkekombinat Leipzig.</font>
+
+581
+01:03:18,760 --> 01:03:22,600
+<font color="#00ffff">Sicherheitsbeamte</font>
+<font color="#00ffff">behindern unsere Arbeit.</font>
+
+582
+01:03:22,800 --> 01:03:28,160
+<font color="#00ffff">Dem Konzern ist die Niederlage</font>
+<font color="#00ffff">im Patentverfahren peinlich.</font>
+
+583
+01:03:28,400 --> 01:03:33,440
+<font color="#00ffff">Das VEB Getränkekombinat</font>
+<font color="#00ffff">geht daraus als Sieger hervor.</font>
+
+584
+01:03:33,800 --> 01:03:38,040
+<font color="#00ffff">Sie stören unsere Arbeit!</font>
+<font color="#ffffff">- Ich rufe die Polizei!</font>
+
+585
+01:03:38,400 --> 01:03:40,760
+<font color="#00ffff">Ein Gutachten bestätigt:</font>
+
+586
+01:03:40,960 --> 01:03:46,320
+<font color="#00ffff">Der Geschmack von Coca-Cola</font>
+<font color="#00ffff">stammt aus den Laboren der DDR.</font>
+
+587
+01:03:46,560 --> 01:03:50,680
+<font color="#00ffff">Er wurde dort in den</font>
+<font color="#00ffff">50er Jahren entwickelt.</font>
+
+588
+01:03:50,880 --> 01:03:54,680
+<font color="#00ff00">Coca-Cola ist</font>
+<font color="#00ff00">ein sozialistisches Getränk?</font>
+
+589
+01:03:54,920 --> 01:03:58,960
+<font color="#00ff00">Ich dachte, Cola gab es</font>
+<font color="#00ff00">schon vor dem Krieg.</font>
+
+590
+01:03:59,160 --> 01:04:02,800
+<font color="#ffff00">Der Westen hat uns</font>
+<font color="#ffff00">jahrelang beschissen.</font>
+
+591
+01:04:03,040 --> 01:04:08,000
+<font color="#ffffff">Es wurden 60% mehr</font>
+<font color="#ffffff">Rauschgift-Opfer registriert.</font>
+
+592
+01:04:08,520 --> 01:04:10,960
+<font color="#00ff00">Jetzt weiß ich es wieder!</font>
+
+593
+01:04:12,160 --> 01:04:15,320
+<font color="#ffff00">Was?</font>
+<font color="#00ff00">- Wo ich das Geld versteckt habe.</font>
+
+594
+01:04:17,120 --> 01:04:23,000
+<font color="#00ff00">In der Wohnzimmer-Kommode in der</font>
+<font color="#00ff00">Schublade unter dem Wachspapier.</font>
+
+595
+01:04:23,560 --> 01:04:26,640
+<font color="#ffffff">Das hier kommt auf den Sperrmüll.</font>
+
+596
+01:04:26,880 --> 01:04:29,680
+<font color="#00ff00">Wie ich das vergessen konnte!</font>
+
+597
+01:04:35,480 --> 01:04:37,720
+<font color="#00ffff">Hey, hier bin ich!</font>
+<font color="#ffff00">- Hallo!</font>
+
+598
+01:04:40,760 --> 01:04:42,880
+<font color="#00ffff">Und?</font>
+
+599
+01:04:44,800 --> 01:04:47,520
+<font color="#00ffff">Hat sies geschluckt?</font>
+<font color="#ffff00">- Ja klar.</font>
+
+600
+01:04:47,760 --> 01:04:52,520
+<font color="#00ffff">Sie hats wirklich geschluckt?</font>
+<font color="#ffff00">- Wenn ichs doch sage.</font>
+
+601
+01:04:57,640 --> 01:05:02,040
+<font color="#ffffff">So weit haben die uns schon.</font>
+<font color="#ffff00">- Abend, Herr Ganske.</font>
+
+602
+01:05:02,400 --> 01:05:05,800
+<font color="#00ffff">Die Unschärfe hat sie</font>
+<font color="#00ffff">nicht irritiert?</font>
+
+603
+01:05:06,040 --> 01:05:08,680
+<font color="#ffffff">Dafür haben wir 40 Jahre...</font>
+
+604
+01:05:09,120 --> 01:05:12,160
+<font color="#00ffff">Man könnte ein Studio nachbauen.</font>
+
+605
+01:05:12,400 --> 01:05:18,240
+<font color="#00ffff">Mit einer Bluebox hat man viele</font>
+<font color="#00ffff">Möglichkeiten. Was machst du da?</font>
+
+606
+01:05:34,040 --> 01:05:37,520
+<font color="#ffffff">Was sollen wir damit machen?</font>
+<font color="#ffff00">- Umtauschen.</font>
+
+607
+01:05:39,040 --> 01:05:43,040
+<font color="#ffffff">Die Umtauschfrist ist</font>
+<font color="#ffffff">vorgestern abgelaufen.</font>
+
+608
+01:05:43,360 --> 01:05:47,680
+<font color="#ffff00">Es ist ein Ausnahmefall.</font>
+<font color="#ffffff">- Das Geld war versteckt.</font>
+
+609
+01:05:47,920 --> 01:05:50,880
+<font color="#ffff00">Sie können auch 1:4 umtauschen.</font>
+
+610
+01:05:51,280 --> 01:05:56,320
+<font color="#ffffff">Der Gesetzgeber hat keine</font>
+<font color="#ffffff">Fristverlängerung vorgesehen.</font>
+
+611
+01:05:57,240 --> 01:05:59,320
+<font color="#ffff00">Das geht nicht.</font>
+<font color="#ffffff">- Nein.</font>
+
+612
+01:05:59,800 --> 01:06:04,240
+<font color="#ffffff">Die Zeit ist um!</font>
+<font color="#ffff00">- Deine Zeit ist gleich um, Idiot!</font>
+
+613
+01:06:04,480 --> 01:06:08,240
+<font color="#ffff00">Das sind 30.000 Mark,</font>
+<font color="#ffff00">das war unser Geld.</font>
+
+614
+01:06:08,440 --> 01:06:12,120
+<font color="#ffff00">Du West-Arsch sagst,</font>
+<font color="#ffff00">das ist nichts wert?</font>
+
+615
+01:06:12,360 --> 01:06:15,080
+<font color="#ffffff">Verlassen Sie unser Institut!</font>
+
+616
+01:06:15,320 --> 01:06:17,480
+<font color="#ffff00">Finger weg!</font>
+
+617
+01:06:17,680 --> 01:06:21,160
+<font color="#ffff00">Was glotzt ihr?</font>
+<font color="#ffff00">Das war auch euer Geld.</font>
+
+618
+01:06:24,120 --> 01:06:26,760
+<font color="#ffff00">Finger weg, ihr Arschlöcher!</font>
+
+619
+01:06:33,440 --> 01:06:35,600
+<font color="#ffffff">Spinnst du, oder was?</font>
+
+620
+01:06:36,480 --> 01:06:42,680
+<font color="#ffff00">Ich fühlte mich wie der Kommandant</font>
+<font color="#ffff00">eines Leck geschlagenen U-Bootes.</font>
+
+621
+01:06:42,880 --> 01:06:47,600
+<font color="#ffff00">Hatte ich ein Leck geschlossen,</font>
+<font color="#ffff00">brach ein neues auf.</font>
+
+622
+01:06:47,840 --> 01:06:53,040
+<font color="#ffff00">Ariane streikte, der Klassenfeind</font>
+<font color="#ffff00">hisste die Cola-Flagge.</font>
+
+623
+01:06:53,240 --> 01:06:58,320
+<font color="#ffff00">Und frischer West-Wind blies mir</font>
+<font color="#ffff00">Mutters Ost-Geld entgegen.</font>
+
+624
+01:06:58,560 --> 01:07:00,720
+<font color="#ffffff">(Lara lacht)</font>
+
+625
+01:07:00,920 --> 01:07:03,200
+<font color="#ffff00">Was soll das?</font>
+<font color="#ffffff">- Schrei mal!</font>
+
+626
+01:07:03,440 --> 01:07:06,200
+<font color="#ffff00">Wozu?</font>
+<font color="#ffffff">- Du musst Luft rauslassen.</font>
+
+627
+01:07:06,480 --> 01:07:09,240
+<font color="#ffffff">Ventile aufmachen. Schrei mal!</font>
+
+628
+01:07:18,960 --> 01:07:21,040
+<font color="#ffffff">(Er schreit)</font>
+
+629
+01:07:21,520 --> 01:07:25,240
+<font color="#ffffff">* lauter Jubel und Böllerschüsse *</font>
+
+630
+01:07:35,360 --> 01:07:41,320
+<font color="#ffff00">Die Deutsche Nationalmannschaft</font>
+<font color="#ffff00">überzeugte mit Plan-Übererfüllung.</font>
+
+631
+01:07:41,560 --> 01:07:44,720
+<font color="#ffff00">Sie wurde 1990 Fußballweltmeister.</font>
+
+632
+01:07:45,480 --> 01:07:48,200
+<font color="#ffff00">Mutter ging es immer besser.</font>
+
+633
+01:07:48,400 --> 01:07:54,840
+<font color="#ffffff">"Der Pullover Größe 48 hat die</font>
+<font color="#ffffff">Breite 54 und die Länge 38."</font>
+
+634
+01:07:55,040 --> 01:08:00,480
+<font color="#00ff00">Wie kommen die Mitarbeiter von</font>
+<font color="#00ff00">Milena zu diesen Abmessungen?</font>
+
+635
+01:08:00,920 --> 01:08:06,880
+<font color="#00ff00">In der Hauptstadt leben keine so</font>
+<font color="#00ff00">kleinen und viereckigen Menschen.</font>
+
+636
+01:08:08,200 --> 01:08:10,560
+<font color="#ffffff">Christiane, das ist gut.</font>
+
+637
+01:08:12,320 --> 01:08:15,760
+<font color="#00ff00">Wenn wir mit</font>
+<font color="#00ff00">unseren Körpergrößen,</font>
+
+638
+01:08:16,160 --> 01:08:23,040
+<font color="#00ff00">Wenn wir mit unseren Körpergrößen</font>
+<font color="#00ff00">den Plan nicht erfüllen,</font>
+
+639
+01:08:25,400 --> 01:08:28,760
+<font color="#00ff00">...bitten wir dies</font>
+<font color="#00ff00">zu entschuldigen.</font>
+
+640
+01:08:29,000 --> 01:08:36,960
+<font color="#00ff00">Wir werden uns bemühen, in Zukunft</font>
+<font color="#00ff00">kleiner und viereckiger zu werden.</font>
+
+641
+01:08:38,680 --> 01:08:41,040
+<font color="#00ff00">Mit sozialistischem Gruß!</font>
+
+642
+01:08:43,240 --> 01:08:45,320
+<font color="#ffffff">Hanna Schäfer.</font>
+
+643
+01:08:48,520 --> 01:08:50,680
+<font color="#ffff00">Tag, Frau Schäfer.</font>
+
+644
+01:08:50,880 --> 01:08:56,840
+<font color="#ffffff">Alex, bei deiner Mutter hat man</font>
+<font color="#ffffff">das Gefühl, es ist so wie früher.</font>
+
+645
+01:08:57,040 --> 01:09:00,280
+<font color="#ffffff">Der geht heute noch</font>
+<font color="#ffffff">zum Ottoversand.</font>
+
+646
+01:09:00,520 --> 01:09:02,680
+<font color="#ffffff">(Kinder singen)</font>
+
+647
+01:09:03,360 --> 01:09:09,400
+<font color="#ffffff">♪ Unsere Heimat sind auch</font>
+<font color="#ffffff">all die Bäume im Wald. ♪</font>
+
+648
+01:09:14,400 --> 01:09:19,840
+<font color="#00ff00">Ich habe Besuch bekommen, Frank</font>
+<font color="#00ff00">und Christian aus der Schule.</font>
+
+649
+01:09:20,080 --> 01:09:22,200
+<font color="#ffffff">Hallo!</font>
+<font color="#ffff00">- Hallo.</font>
+
+650
+01:09:22,400 --> 01:09:25,720
+<font color="#ffff00">Frau Kerner muss sich</font>
+<font color="#ffff00">jetzt ausruhen.</font>
+
+651
+01:09:26,280 --> 01:09:28,440
+<font color="#00ff00">Alex, warum denn?</font>
+
+652
+01:09:30,240 --> 01:09:32,960
+<font color="#ffff00">Verschwindet!</font>
+<font color="#ffffff">- Und die 20 Mark?</font>
+
+653
+01:09:33,200 --> 01:09:37,760
+<font color="#ffff00">Welche 20 Mark?</font>
+<font color="#ffffff">- Sascha sagt, wir bekommen 20 Mark.</font>
+
+654
+01:09:37,960 --> 01:09:40,600
+<font color="#ffff00">Tag, Herr Mehlert.</font>
+<font color="#ffffff">- Tag, Alex.</font>
+
+655
+01:09:40,840 --> 01:09:45,960
+<font color="#ffffff">Probleme mit dem Toaster?</font>
+<font color="#ffffff">Meine Mutter wird sich freuen.</font>
+
+656
+01:09:46,120 --> 01:09:51,120
+<font color="#ffff00">Raus jetzt! Ich will hier</font>
+<font color="#ffff00">nie mehr einen Pionier sehen.</font>
+
+657
+01:09:56,960 --> 01:09:59,080
+<font color="#ffff00">Bist du bescheuert?</font>
+
+658
+01:09:59,280 --> 01:10:03,760
+<font color="#ffff00">Du kannst nicht einfach</font>
+<font color="#ffff00">die Jungs hier reinlassen.</font>
+
+659
+01:10:04,040 --> 01:10:07,160
+<font color="#ffffff">Wieso, sie hat sich doch gefreut.</font>
+
+660
+01:10:07,360 --> 01:10:10,640
+<font color="#ffffff">Ihr Ossis habt immer</font>
+<font color="#ffffff">was zu meckern.</font>
+
+661
+01:10:10,920 --> 01:10:16,440
+<font color="#ffffff">Du bist wie deine Mutter mit</font>
+<font color="#ffffff">ihren bescheuerten DDR-Eingaben.</font>
+
+662
+01:10:16,680 --> 01:10:20,080
+<font color="#ffff00">Meine Mutter übt</font>
+<font color="#ffff00">konstruktive Kritik.</font>
+
+663
+01:10:20,280 --> 01:10:24,360
+<font color="#ffff00">Dadurch verändert sie</font>
+<font color="#ffff00">die Gesellschaft.</font>
+
+664
+01:10:25,880 --> 01:10:31,920
+<font color="#ffffff">Hast dus gemerkt, wir sind hier</font>
+<font color="#ffffff">im sozialistischen Veteranenclub.</font>
+
+665
+01:10:32,120 --> 01:10:36,440
+<font color="#ffffff">Nimm doch Eintritt.</font>
+<font color="#ffffff">Genau, wir nehmen Eintritt.</font>
+
+666
+01:10:36,640 --> 01:10:39,640
+<font color="#ffffff">Er hat sich</font>
+<font color="#ffffff">einen Trabbi gekauft.</font>
+
+667
+01:10:39,880 --> 01:10:42,000
+<font color="#ffff00">Echt?</font>
+<font color="#ffffff">- Einen Kombi.</font>
+
+668
+01:10:42,200 --> 01:10:45,560
+<font color="#ffffff">Paula kriegt hier</font>
+<font color="#ffffff">noch einen Schaden.</font>
+
+669
+01:10:45,800 --> 01:10:49,760
+<font color="#ffff00">20 Jahre DDR haben uns</font>
+<font color="#ffff00">auch nicht geschadet.</font>
+
+670
+01:10:50,000 --> 01:10:52,920
+<font color="#ffffff">Was ich an dir stark bezweifle.</font>
+
+671
+01:10:54,480 --> 01:10:56,560
+<font color="#ffffff">Scheiße!</font>
+
+672
+01:11:01,520 --> 01:11:04,000
+<font color="#ffffff">Sehr gut. Einen Lappen.</font>
+
+673
+01:11:18,760 --> 01:11:22,240
+<font color="#ffff00">Was ist los?</font>
+<font color="#ffff00">Schon wieder Nasenbluten?</font>
+
+674
+01:11:28,040 --> 01:11:32,640
+<font color="#ffff00">Es ist stressig für dich.</font>
+<font color="#ffff00">Mir wäre auch lieber...</font>
+
+675
+01:11:33,000 --> 01:11:35,080
+<font color="#ffffff">Ich habe Papa gesehen.</font>
+
+676
+01:11:35,920 --> 01:11:38,080
+<font color="#ffffff">Vorhin.</font>
+
+677
+01:11:38,480 --> 01:11:40,760
+<font color="#ffff00">Wo?</font>
+<font color="#ffffff">- Auf Arbeit.</font>
+
+678
+01:11:42,080 --> 01:11:45,400
+<font color="#ffffff">Ich habe sofort</font>
+<font color="#ffffff">seine Stimme erkannt.</font>
+
+679
+01:11:45,640 --> 01:11:47,800
+<font color="#ffff00">Was hat er gesagt?</font>
+
+680
+01:11:48,200 --> 01:11:53,000
+<font color="#ffffff">3 Cheeseburger und 2-mal</font>
+<font color="#ffffff">Pommes mit Mayo, bitte.</font>
+
+681
+01:11:55,680 --> 01:11:59,560
+<font color="#ffffff">3 Cheeseburger,</font>
+<font color="#ffffff">2-mal Pommes mit Mayo!</font>
+
+682
+01:12:14,200 --> 01:12:17,440
+<font color="#ffff00">Ja und... wie sieht er aus?</font>
+
+683
+01:12:19,360 --> 01:12:24,480
+<font color="#ffffff">Er fährt nen Volvo Kombi</font>
+<font color="#ffffff">und trägt ne Brille mit Goldrand.</font>
+
+684
+01:12:25,560 --> 01:12:28,080
+<font color="#ffff00">Was hast du zu ihm gesagt?</font>
+
+685
+01:12:29,240 --> 01:12:35,000
+<font color="#ffffff">"Vielen Dank, dass Sie sich für</font>
+<font color="#ffffff">Burger King entschieden haben."</font>
+
+686
+01:12:36,640 --> 01:12:42,160
+<font color="#ffffff">Vielen Dank, dass Sie sich für</font>
+<font color="#ffffff">Burger King entschieden haben.</font>
+
+687
+01:13:03,400 --> 01:13:09,440
+<font color="#ffff00">Irgendwo in der Stadt lebte mein</font>
+<font color="#ffff00">Vater. Ich sah sein Bild vor mir.</font>
+
+688
+01:13:09,640 --> 01:13:14,800
+<font color="#ffff00">Ein fetter Kerl, der sich mit</font>
+<font color="#ffff00">Cheeseburgern voll stopfte.</font>
+
+689
+01:13:21,880 --> 01:13:25,720
+<font color="#ffff00">Er lebte in seiner Welt</font>
+<font color="#ffff00">und ich in meiner.</font>
+
+690
+01:13:25,920 --> 01:13:30,800
+<font color="#ffff00">Er hatte nichts mit mir zu tun</font>
+<font color="#ffff00">und ich nichts mit ihm.</font>
+
+691
+01:13:38,320 --> 01:13:41,320
+<font color="#ffffff">Stillhalten, sonst gehts nicht!</font>
+
+692
+01:13:42,040 --> 01:13:44,960
+<font color="#ffff00">Sag mal, dauert es noch lange?</font>
+
+693
+01:13:47,560 --> 01:13:51,120
+<font color="#ffff00">Ich muss in 2 h zu Hause sein.</font>
+
+694
+01:13:51,320 --> 01:13:55,360
+<font color="#ffffff">Du musst immer in 2 h irgendwo sein.</font>
+
+695
+01:13:55,600 --> 01:13:58,280
+<font color="#ffffff">Das wird langsam langweilig.</font>
+
+696
+01:13:58,520 --> 01:14:03,280
+<font color="#ffff00">Ich habe ne kranke Mutter</font>
+<font color="#ffff00">und ne beleidigte Freundin.</font>
+
+697
+01:14:03,520 --> 01:14:06,360
+<font color="#ffffff">Ich habe in 2 Tagen Prüfung.</font>
+
+698
+01:14:06,600 --> 01:14:10,520
+<font color="#ffff00">Das bisschen eingipsen</font>
+<font color="#ffff00">machst du mit links.</font>
+
+699
+01:14:10,960 --> 01:14:14,360
+<font color="#ffffff">Dann kann ich ja</font>
+<font color="#ffffff">aufhören mit lernen.</font>
+
+700
+01:14:15,120 --> 01:14:19,160
+<font color="#ffff00">Es war gut gemeint.</font>
+<font color="#ffff00">Ich glaube eben an dich.</font>
+
+701
+01:14:20,520 --> 01:14:26,160
+<font color="#ffff00">Lara, hör auf mit dem Scheiß!</font>
+<font color="#ffffff">- Du musst es deiner Mutter sagen!</font>
+
+702
+01:14:26,400 --> 01:14:31,880
+<font color="#ffffff">Du musst es deiner Mutter sagen.</font>
+<font color="#ffffff">Nicht wegen mir, wegen ihr.</font>
+
+703
+01:14:35,360 --> 01:14:37,400
+<font color="#ffff00">Lara!</font>
+<font color="#ffffff">- Was?</font>
+
+704
+01:14:38,560 --> 01:14:40,720
+<font color="#ffff00">Scheiße! Lara!</font>
+
+705
+01:14:54,320 --> 01:14:58,720
+<font color="#ffff00">Das Leben in unserem Land</font>
+<font color="#ffff00">wurde immer schneller.</font>
+
+706
+01:14:58,920 --> 01:15:04,360
+<font color="#ffff00">Wir waren wie Atome in einem</font>
+<font color="#ffff00">riesigen Teilchenbeschleuniger.</font>
+
+707
+01:15:04,600 --> 01:15:09,240
+<font color="#ffff00">Doch weit ab von der Hektik</font>
+<font color="#ffff00">lag ein Ort der Stille.</font>
+
+708
+01:15:09,480 --> 01:15:13,160
+<font color="#ffff00">Hier konnte ich</font>
+<font color="#ffff00">endlich mal ausschlafen.</font>
+
+709
+01:15:15,040 --> 01:15:20,920
+<font color="#00ff00">Paula, früher war Alex nicht so</font>
+<font color="#00ff00">müde, wenn er von der Arbeit kam.</font>
+
+710
+01:15:28,440 --> 01:15:31,400
+<font color="#00ff00">Unsere Paula lernt laufen, Alex!</font>
+
+711
+01:15:36,880 --> 01:15:38,920
+<font color="#ffffff">Da, da, da, da!</font>
+
+712
+01:15:58,000 --> 01:16:00,080
+<font color="#ffffff">Da!</font>
+
+713
+01:16:04,600 --> 01:16:07,400
+<font color="#00ff00">Siehst du? Bei mir gehts auch.</font>
+
+714
+01:16:16,840 --> 01:16:18,920
+<font color="#00ff00">Paula! Siehst du?</font>
+
+715
+01:16:19,360 --> 01:16:21,520
+<font color="#ffffff">Da!</font>
+
+716
+01:16:22,080 --> 01:16:27,200
+<font color="#00ff00">Meine kleine Paula, komm mal her</font>
+<font color="#00ff00">zu Oma! Komm her, komm!</font>
+
+717
+01:16:31,440 --> 01:16:37,240
+<font color="#00ff00">Jetzt zeigen wir dem Alex mal,</font>
+<font color="#00ff00">was wir können. Komm! So, ja.</font>
+
+718
+01:16:40,000 --> 01:16:42,080
+<font color="#00ff00">Aber...</font>
+
+719
+01:16:42,960 --> 01:16:46,200
+<font color="#00ff00">Mal sehen, wie weit die Oma kommt.</font>
+
+720
+01:17:39,240 --> 01:17:41,360
+<font color="#ffffff">Hi!</font>
+<font color="#00ff00">- Tag.</font>
+
+721
+01:17:54,200 --> 01:17:57,400
+<font color="#00ff00">Junger Mann, kann ich</font>
+<font color="#00ff00">mich mal setzen?</font>
+
+722
+01:17:57,680 --> 01:17:59,840
+<font color="#ffffff">Aber sicher!</font>
+
+723
+01:18:07,200 --> 01:18:11,680
+<font color="#00ff00">Sie sind nicht von hier, oder?</font>
+<font color="#ffffff">- Nee, aus Wuppertal.</font>
+
+724
+01:18:11,920 --> 01:18:14,000
+<font color="#00ff00">Aus dem Westen?</font>
+
+725
+01:19:19,960 --> 01:19:21,880
+<font color="#ffff00">Mama?</font>
+
+726
+01:20:20,600 --> 01:20:23,160
+<font color="#ffff00">Mama, was machst du?</font>
+<font color="#ffffff">- Mama!</font>
+
+727
+01:20:24,600 --> 01:20:30,000
+<font color="#ffffff">Was ist mit dir passiert?</font>
+<font color="#ffffff">Du kannst nicht einfach aufstehen.</font>
+
+728
+01:20:33,920 --> 01:20:36,600
+<font color="#00ff00">Was ist hier eigentlich los?</font>
+
+729
+01:20:40,880 --> 01:20:47,320
+<font color="#00ffff">Zentralkomitee der Sozialistischen</font>
+<font color="#00ffff">Einheitspartei Deutschlands.</font>
+
+730
+01:20:49,280 --> 01:20:51,520
+<font color="#ffff00">Ton ist in Ordnung.</font>
+<font color="#00ffff">- Okay.</font>
+
+731
+01:20:52,960 --> 01:20:55,120
+<font color="#00ffff">Von mir aus können wir.</font>
+
+732
+01:20:55,360 --> 01:20:58,520
+<font color="#ffff00">Kamera läuft. 3, 2, 1!</font>
+
+733
+01:20:59,680 --> 01:21:01,760
+<font color="#00ffff">Berlin.</font>
+
+734
+01:21:10,960 --> 01:21:13,080
+<font color="#ffff00">Läuft noch.</font>
+
+735
+01:21:13,320 --> 01:21:19,160
+<font color="#00ffff">Berlin. Auf einer Sondersitzung</font>
+<font color="#00ffff">des Zentralkomitees der SED,</font>
+
+736
+01:21:19,360 --> 01:21:24,920
+<font color="#00ffff">...hat der Generalsekretär</font>
+<font color="#00ffff">des ZK der SED Erich Honecker...</font>
+
+737
+01:21:25,120 --> 01:21:29,320
+<font color="#00ffff">...der Einreise vieler</font>
+<font color="#00ffff">BRD-Bürger zugestimmt.</font>
+
+738
+01:21:29,520 --> 01:21:35,680
+<font color="#00ffff">Diese suchten in den Botschaften</font>
+<font color="#00ffff">von Prag und Budapest Zuflucht.</font>
+
+739
+01:21:35,880 --> 01:21:41,080
+<font color="#00ffff">Honecker sieht darin eine Wende</font>
+<font color="#00ffff">der Ost-West-Beziehungen.</font>
+
+740
+01:21:41,280 --> 01:21:46,440
+<font color="#00ffff">Jeder Einreisende erhält ein</font>
+<font color="#00ffff">Begrüßungsgeld von 200 Mark.</font>
+
+741
+01:21:46,680 --> 01:21:51,960
+<font color="#00ffff">Die politischen Zustände</font>
+<font color="#00ffff">in der BRD haben deren Bürger...</font>
+
+742
+01:21:52,200 --> 01:21:57,320
+<font color="#00ffff">...dazu bewogen, dem Kapitalismus</font>
+<font color="#00ffff">den Rücken zu kehren.</font>
+
+743
+01:21:57,520 --> 01:22:03,680
+<font color="#00ffff">Viele von ihnen wollen einen</font>
+<font color="#00ffff">Neuanfang in der DDR versuchen.</font>
+
+744
+01:22:05,880 --> 01:22:10,240
+<font color="#00ffff">Hier parken die neuen</font>
+<font color="#00ffff">DDR-Bürger aus der BRD.</font>
+
+745
+01:22:11,120 --> 01:22:16,600
+<font color="#00ffff">Sie wurden in Berlin Mitte und</font>
+<font color="#00ffff">Friedrichshain untergebracht.</font>
+
+746
+01:22:17,520 --> 01:22:22,800
+<font color="#00ffff">Das ZK der SED ruft die Aktion</font>
+<font color="#00ffff">Solidarität West ins Leben.</font>
+
+747
+01:22:23,040 --> 01:22:29,160
+<font color="#00ffff">Sie soll die Wohnraumlenkung für</font>
+<font color="#00ffff">die neuen Mitbürger gewährleisten.</font>
+
+748
+01:22:29,360 --> 01:22:32,400
+<font color="#ffff00">Mein Spiel</font>
+<font color="#ffff00">verselbständigte sich.</font>
+
+749
+01:22:32,600 --> 01:22:38,520
+<font color="#ffff00">Die DDR, die ich schuf, wurde so,</font>
+<font color="#ffff00">wie ich sie mir gewünscht hätte.</font>
+
+750
+01:22:38,760 --> 01:22:44,840
+<font color="#00ffff">DDR-Bürger können Flüchtlinge</font>
+<font color="#00ffff">aus der BRD bei sich aufnehmen.</font>
+
+751
+01:22:46,120 --> 01:22:48,400
+<font color="#00ff00">Wie viele sind es schon?</font>
+
+752
+01:22:50,520 --> 01:22:53,520
+<font color="#ffff00">Keine Ahnung. 10.000 bis 20.000.</font>
+
+753
+01:22:54,320 --> 01:22:58,280
+<font color="#00ff00">Seht ihr? Die Menschen</font>
+<font color="#00ff00">wollen in unser Land.</font>
+
+754
+01:22:58,600 --> 01:23:01,120
+<font color="#00ff00">Wo sollen die alle wohnen?</font>
+
+755
+01:23:01,320 --> 01:23:06,160
+<font color="#ffff00">Es wird sich schon was finden.</font>
+<font color="#ffff00">Die kümmern sich darum.</font>
+
+756
+01:23:06,360 --> 01:23:10,760
+<font color="#00ff00">Nee, hier sind wir gefordert.</font>
+<font color="#00ff00">Wir müssen helfen.</font>
+
+757
+01:23:10,960 --> 01:23:14,920
+<font color="#ffffff">Wie denn? Hier haben</font>
+<font color="#ffffff">wir keinen Platz mehr.</font>
+
+758
+01:23:16,920 --> 01:23:20,040
+<font color="#00ff00">In der Datsche.</font>
+<font color="#ffff00">- In der Datsche?</font>
+
+759
+01:23:20,240 --> 01:23:25,280
+<font color="#00ff00">Wir richten sie her. Ich wollte</font>
+<font color="#00ff00">sowieso mal rausfahren.</font>
+
+760
+01:23:26,120 --> 01:23:30,600
+<font color="#ffffff">Super, jetzt will</font>
+<font color="#ffffff">sie auch noch zur Datsche.</font>
+
+761
+01:23:34,400 --> 01:23:38,440
+<font color="#ffffff">Du musst die ganze Stadt</font>
+<font color="#ffffff">dekorieren. Fang an!</font>
+
+762
+01:23:38,680 --> 01:23:41,040
+<font color="#ffffff">Ich mache nicht mehr mit.</font>
+
+763
+01:23:43,840 --> 01:23:49,680
+<font color="#ffffff">Wir suchen uns eine Wohnung.</font>
+<font color="#ffffff">In vier Wochen sind wir hier raus.</font>
+
+764
+01:23:50,400 --> 01:23:53,680
+<font color="#ffff00">Wie bitte?</font>
+<font color="#ffffff">- Ich bin schwanger.</font>
+
+765
+01:24:00,280 --> 01:24:03,880
+<font color="#ffff00">Schon wieder?</font>
+<font color="#ffff00">Könnt ihr nicht aufpassen?</font>
+
+766
+01:24:05,920 --> 01:24:08,280
+<font color="#ffff00">Reicht euch Paula nicht?</font>
+
+767
+01:24:08,680 --> 01:24:14,360
+<font color="#ffff00">Ihr lasst mich mit Mama allein?</font>
+<font color="#ffffff">- Nimm doch BRD-Flüchtlinge auf.</font>
+
+768
+01:24:14,560 --> 01:24:19,560
+<font color="#ffff00">Du bist so zynisch. Dir wäre es</font>
+<font color="#ffff00">recht, wenn sie stirbt.</font>
+
+769
+01:24:27,080 --> 01:24:32,640
+<font color="#ffff00">Und so war die Einheit in unserer</font>
+<font color="#ffff00">Familie wiederhergestellt.</font>
+
+770
+01:24:36,160 --> 01:24:39,800
+<font color="#ffffff">Das ist Ihr Kind.</font>
+<font color="#ffffff">Und das ist das Herz.</font>
+
+771
+01:24:43,720 --> 01:24:45,840
+<font color="#ffffff">Ist ja Wahnsinn!</font>
+
+772
+01:24:46,360 --> 01:24:49,920
+<font color="#ffff00">Ein gesamtdeutsches Baby</font>
+<font color="#ffff00">war unterwegs.</font>
+
+773
+01:24:50,360 --> 01:24:54,440
+<font color="#ffff00">Gesamtdeutsche Verträge</font>
+<font color="#ffff00">wurden unterzeichnet.</font>
+
+774
+01:24:54,680 --> 01:25:00,080
+<font color="#ffff00">2 plus 4 ergab 1 und man trank</font>
+<font color="#ffff00">gesamtdeutsche Brüderschaft.</font>
+
+775
+01:25:00,640 --> 01:25:06,560
+<font color="#ffff00">Wir in Berlin unternahmen unseren</font>
+<font color="#ffff00">ersten gesamtdeutschen Ausflug.</font>
+
+776
+01:25:09,640 --> 01:25:13,680
+<font color="#00ff00">Ich bin kein Kind mehr,</font>
+<font color="#00ff00">nimm mir das Tuch ab!</font>
+
+777
+01:25:13,920 --> 01:25:16,080
+<font color="#ffff00">Nicht schummeln!</font>
+
+778
+01:25:17,240 --> 01:25:22,080
+<font color="#00ff00">Wohin fahren wir denn?</font>
+<font color="#ffffff">- Es ist doch eine Überraschung.</font>
+
+779
+01:25:22,280 --> 01:25:26,320
+<font color="#00ff00">Der Trabbi riecht so neu.</font>
+<font color="#00ff00">Welche Farbe hat er?</font>
+
+780
+01:25:26,560 --> 01:25:28,640
+<font color="#ffff00">Warte es ab!</font>
+
+781
+01:25:28,880 --> 01:25:30,960
+<font color="#00ff00">Okay.</font>
+
+782
+01:25:31,200 --> 01:25:34,960
+<font color="#ffffff">(Sie singt Russisch)</font>
+
+783
+01:25:37,640 --> 01:25:41,640
+<font color="#ffffff">(Alle singen Russisch)</font>
+
+784
+01:26:18,360 --> 01:26:21,040
+<font color="#00ff00">Ist der schön! Himmelblau.</font>
+
+785
+01:26:22,080 --> 01:26:24,600
+<font color="#ffff00">So, jetzt dreh dich mal um!</font>
+
+786
+01:26:28,520 --> 01:26:30,880
+<font color="#00ff00">O mein Gott, der Garten!</font>
+
+787
+01:26:32,240 --> 01:26:36,080
+<font color="#00ff00">Alex hatte sich auf</font>
+<font color="#00ff00">dem Klo eingeschlossen.</font>
+
+788
+01:26:36,360 --> 01:26:38,480
+<font color="#00ff00">Er gab keine Antwort.</font>
+
+789
+01:26:38,720 --> 01:26:42,720
+<font color="#ffff00">Ich war durchs Dach</font>
+<font color="#ffff00">nach draußen geklettert.</font>
+
+790
+01:26:42,920 --> 01:26:46,880
+<font color="#ffffff">Ich habe mir vor Lachen</font>
+<font color="#ffffff">in die Hose gemacht.</font>
+
+791
+01:26:54,040 --> 01:26:59,000
+<font color="#00ff00">Was ist in der Zeit passiert,</font>
+<font color="#00ff00">die ich verschlafen habe?</font>
+
+792
+01:27:05,360 --> 01:27:09,480
+<font color="#00ff00">Ihr seid erwachsen geworden,</font>
+<font color="#00ff00">das ist es wohl.</font>
+
+793
+01:27:09,760 --> 01:27:13,240
+<font color="#00ff00">Du wirst deinem Vater</font>
+<font color="#00ff00">immer ähnlicher.</font>
+
+794
+01:27:20,400 --> 01:27:23,680
+<font color="#ffff00">Mama...</font>
+<font color="#00ff00">- Ich habe euch immer belogen.</font>
+
+795
+01:27:23,920 --> 01:27:28,160
+<font color="#00ff00">Es ist anders, als ihr denkt.</font>
+<font color="#ffff00">- Was redest du da?</font>
+
+796
+01:27:28,400 --> 01:27:30,520
+<font color="#00ff00">Euer Vater...</font>
+
+797
+01:27:34,400 --> 01:27:39,680
+<font color="#00ff00">Euer Vater ist nicht wegen</font>
+<font color="#00ff00">einer Frau im Westen geblieben.</font>
+
+798
+01:27:39,920 --> 01:27:45,320
+<font color="#00ff00">Das war gelogen. Und dass er sich</font>
+<font color="#00ff00">nie mehr gemeldet hat,</font>
+
+799
+01:27:47,400 --> 01:27:49,840
+<font color="#00ff00">...das war auch gelogen.</font>
+
+800
+01:27:50,800 --> 01:27:54,880
+<font color="#00ff00">Er hat mir Briefe geschrieben,</font>
+<font color="#00ff00">und euch auch.</font>
+
+801
+01:27:55,120 --> 01:27:58,520
+<font color="#00ff00">Die liegen alle</font>
+<font color="#00ff00">in dem Küchenschrank.</font>
+
+802
+01:28:03,920 --> 01:28:07,880
+<font color="#00ff00">Die haben ihm die Arbeit</font>
+<font color="#00ff00">so schwer gemacht.</font>
+
+803
+01:28:08,080 --> 01:28:11,480
+<font color="#00ff00">Nur, weil er nicht</font>
+<font color="#00ff00">in der Partei war.</font>
+
+804
+01:28:12,160 --> 01:28:17,200
+<font color="#00ff00">Er hat sich nichts anmerken</font>
+<font color="#00ff00">lassen, aber ich wusste es.</font>
+
+805
+01:28:18,360 --> 01:28:22,200
+<font color="#00ff00">Ich wusste es und konnte</font>
+<font color="#00ff00">ihm nicht helfen.</font>
+
+806
+01:28:25,600 --> 01:28:30,520
+<font color="#00ff00">Und dann kam plötzlich dieser</font>
+<font color="#00ff00">Kongress in West-Berlin.</font>
+
+807
+01:28:30,760 --> 01:28:34,760
+<font color="#00ff00">Wir hatten nur 2 Tage</font>
+<font color="#00ff00">Zeit zum Überlegen.</font>
+
+808
+01:28:36,320 --> 01:28:39,600
+<font color="#00ff00">Euer Vater wollte</font>
+<font color="#00ff00">im Westen bleiben.</font>
+
+809
+01:28:40,520 --> 01:28:43,760
+<font color="#00ff00">Ich sollte dann</font>
+<font color="#00ff00">mit euch nachkommen.</font>
+
+810
+01:28:47,960 --> 01:28:51,240
+<font color="#00ff00">Tja, ich habs nicht geschafft.</font>
+
+811
+01:28:53,880 --> 01:28:59,400
+<font color="#00ff00">Ich hatte wahnsinnige Angst,</font>
+<font color="#00ff00">einen Ausreiseantrag zu stellen.</font>
+
+812
+01:28:59,640 --> 01:29:04,400
+<font color="#00ff00">Mit 2 Kindern lassen</font>
+<font color="#00ff00">die einen nicht sofort raus.</font>
+
+813
+01:29:04,720 --> 01:29:09,040
+<font color="#00ff00">Da muss man warten, ewig.</font>
+<font color="#00ff00">Manchmal sogar Jahre.</font>
+
+814
+01:29:10,000 --> 01:29:15,160
+<font color="#00ff00">Und euch hätten sie mir</font>
+<font color="#00ff00">wegnehmen können, versteht ihr?</font>
+
+815
+01:29:25,640 --> 01:29:28,240
+<font color="#00ff00">Ja, ich bin nicht gegangen.</font>
+
+816
+01:29:31,240 --> 01:29:36,720
+<font color="#00ff00">Das war der größte Fehler meines</font>
+<font color="#00ff00">Lebens, das weiß ich jetzt.</font>
+
+817
+01:29:38,480 --> 01:29:42,160
+<font color="#00ff00">Ich habe euch belogen,</font>
+<font color="#00ff00">verzeiht mir bitte.</font>
+
+818
+01:30:03,000 --> 01:30:05,080
+<font color="#00ff00">Mein lieber Robert.</font>
+
+819
+01:30:07,920 --> 01:30:10,880
+<font color="#00ff00">Ich habe so oft an dich gedacht.</font>
+
+820
+01:30:13,080 --> 01:30:17,040
+<font color="#00ff00">Ich würde dich so gern</font>
+<font color="#00ff00">noch mal wiedersehen</font>
+
+821
+01:30:54,360 --> 01:30:58,240
+<font color="#ffff00">Abends ging es Mutter</font>
+<font color="#ffff00">plötzlich schlechter.</font>
+
+822
+01:31:49,160 --> 01:31:51,320
+<font color="#ffffff">(Sie weint)</font>
+
+823
+01:32:04,840 --> 01:32:10,000
+<font color="#ffffff">Wie befürchtet hatte Ihre Mutter</font>
+<font color="#ffffff">einen weiteren Infarkt.</font>
+
+824
+01:32:10,240 --> 01:32:16,560
+<font color="#ffffff">Im Moment ist sie stabil, aber wir</font>
+<font color="#ffffff">müssen mit dem Schlimmsten rechnen.</font>
+
+825
+01:32:17,960 --> 01:32:20,120
+<font color="#ffffff">Es tut mir leid.</font>
+
+826
+01:32:25,320 --> 01:32:30,000
+<font color="#ffff00">Ärzte können sich irren.</font>
+<font color="#ffffff">- Alex, mach dir nichts vor!</font>
+
+827
+01:32:30,200 --> 01:32:34,600
+<font color="#ffffff">Hier, ich habe sie gefunden.</font>
+<font color="#ffffff">Er wohnt in Wannsee.</font>
+
+828
+01:32:36,760 --> 01:32:42,240
+<font color="#ffffff">Es ist ihr letzter Wunsch, aber</font>
+<font color="#ffffff">ich kann nicht zu ihm fahren.</font>
+
+829
+01:32:46,200 --> 01:32:48,280
+<font color="#ffff00">Mutter stirbt nicht.</font>
+
+830
+01:32:52,800 --> 01:32:54,960
+<font color="#ffffff">Tschüs.</font>
+
+831
+01:33:31,480 --> 01:33:35,160
+<font color="#00ff00">Jetzt könnt ihr noch</font>
+<font color="#00ff00">jemanden aufnehmen.</font>
+
+832
+01:33:38,720 --> 01:33:42,800
+<font color="#ffff00">Aufnehmen, wen?</font>
+<font color="#00ff00">- Jemanden aus dem Westen.</font>
+
+833
+01:34:06,800 --> 01:34:08,960
+<font color="#ffffff">Du musst schlafen.</font>
+
+834
+01:34:11,920 --> 01:34:15,880
+<font color="#ffffff">Du kannst dich</font>
+<font color="#ffffff">im Schwesternzimmer hinlegen.</font>
+
+835
+01:34:29,680 --> 01:34:31,840
+<font color="#ffffff">(Er weint)</font>
+
+836
+01:34:53,560 --> 01:34:59,840
+<font color="#ffff00">Da war er, das Idol meiner Jugend,</font>
+<font color="#ffff00">wie ein Geist aus meiner Kindheit.</font>
+
+837
+01:35:00,080 --> 01:35:03,520
+<font color="#ffff00">Sigmund Jähn.</font>
+<font color="#ffff00">Er gab keine Autogramme.</font>
+
+838
+01:35:03,720 --> 01:35:09,480
+<font color="#ffff00">Er redete nicht zu Pionieren über</font>
+<font color="#ffff00">die Unendlichkeit des Kosmos.</font>
+
+839
+01:35:09,680 --> 01:35:13,000
+<font color="#ffff00">Er fuhr nur ein</font>
+<font color="#ffff00">stinkendes Lada-Taxi.</font>
+
+840
+01:35:13,240 --> 01:35:15,320
+<font color="#ffffff">Wohin soll es gehen?</font>
+
+841
+01:35:15,560 --> 01:35:17,680
+<font color="#ffff00">Nach Wannsee.</font>
+
+842
+01:35:17,920 --> 01:35:22,200
+<font color="#ffffff">Ich weiß, was Sie denken,</font>
+<font color="#ffffff">aber ich bins nicht.</font>
+
+843
+01:35:22,440 --> 01:35:28,760
+<font color="#ffff00">So flogen wir durch die Nacht.</font>
+<font color="#ffff00">Wie durch die Weiten des Kosmos.</font>
+
+844
+01:35:28,960 --> 01:35:34,440
+<font color="#ffff00">Vorbei an fremden Galaxien,</font>
+<font color="#ffff00">landeten wir in Wannsee.</font>
+
+845
+01:35:35,200 --> 01:35:38,120
+<font color="#ffff00">Können Sie einen Moment warten?</font>
+
+846
+01:35:41,600 --> 01:35:43,760
+<font color="#ffff00">Es dauert nicht lange.</font>
+
+847
+01:35:53,960 --> 01:35:57,280
+<font color="#ffff00">Guten Tag, ist...</font>
+<font color="#ffffff">- Hallo. Komm rein!</font>
+
+848
+01:35:59,680 --> 01:36:01,840
+<font color="#ffff00">Ist Herr Kerner da?</font>
+
+849
+01:36:02,040 --> 01:36:04,920
+<font color="#ffffff">Das Buffet ist draußen.</font>
+<font color="#ffffff">Da lang.</font>
+
+850
+01:36:09,600 --> 01:36:11,680
+<font color="#ffffff">Hallo.</font>
+
+851
+01:36:20,520 --> 01:36:22,600
+<font color="#ffff00">Tag.</font>
+
+852
+01:36:28,560 --> 01:36:30,640
+<font color="#ffffff">Hallo. Guten Abend.</font>
+
+853
+01:36:34,040 --> 01:36:36,200
+<font color="#ffffff">Hallo!</font>
+
+854
+01:36:42,040 --> 01:36:45,040
+<font color="#ffffff">* Titelmusik von Sandmännchen *</font>
+
+855
+01:37:01,240 --> 01:37:04,040
+<font color="#ffff00">Hallo.</font>
+<font color="#ffffff">- Hallo.</font>
+
+856
+01:37:04,680 --> 01:37:08,440
+<font color="#ffff00">Darf ich mitgucken?</font>
+<font color="#ffffff">- Dann sag, wie du heißt!</font>
+
+857
+01:37:08,760 --> 01:37:10,920
+<font color="#ffff00">Alexander.</font>
+
+858
+01:37:16,640 --> 01:37:20,920
+<font color="#ffffff">Guck mal, das Sandmännchen</font>
+<font color="#ffffff">ist heute Astronaut.</font>
+
+859
+01:37:21,160 --> 01:37:24,640
+<font color="#ffff00">Da, wo ich herkomme,</font>
+<font color="#ffff00">heißt es Kosmonaut.</font>
+
+860
+01:37:24,840 --> 01:37:29,040
+<font color="#ffffff">Wo kommst du denn her?</font>
+<font color="#ffff00">- Aus einem anderen Land.</font>
+
+861
+01:37:30,680 --> 01:37:33,280
+<font color="#ffffff">Na, ihr Bärchen! Hallo, Papa.</font>
+
+862
+01:37:33,560 --> 01:37:36,400
+<font color="#ffffff">Hallo. Wie gehts euch?</font>
+
+863
+01:37:36,760 --> 01:37:38,840
+<font color="#ffffff">Gut.</font>
+<font color="#ffffff">Gut.</font>
+
+864
+01:37:42,000 --> 01:37:45,920
+<font color="#ffffff">Sind Sie auch Sandmännchen-Fan?</font>
+<font color="#ffff00">- Ja schon.</font>
+
+865
+01:37:51,000 --> 01:37:55,560
+<font color="#ffffff">Entschuldigung, kennen wir uns?</font>
+<font color="#ffff00">- Ja, wir kennen uns.</font>
+
+866
+01:37:56,120 --> 01:38:00,360
+<font color="#ffffff">Ja. Ich komme nicht drauf,</font>
+<font color="#ffffff">helfen Sie mir doch.</font>
+
+867
+01:38:00,600 --> 01:38:02,680
+<font color="#ffffff">Der heißt Alexander.</font>
+
+868
+01:38:10,480 --> 01:38:12,560
+<font color="#ffffff">Alex?</font>
+
+869
+01:38:15,080 --> 01:38:18,120
+<font color="#ffffff">(Mann) Robert! Robert!</font>
+
+870
+01:38:18,320 --> 01:38:22,400
+<font color="#ffffff">Wir warten alle auf dich.</font>
+<font color="#ffffff">Robert, komm mal!</font>
+
+871
+01:38:22,760 --> 01:38:28,360
+<font color="#ffffff">Robert, wir wissen, dass du dich</font>
+<font color="#ffffff">gerne auf dem Klo versteckst.</font>
+
+872
+01:38:28,600 --> 01:38:30,680
+<font color="#ffffff">* Gelächter *</font>
+
+873
+01:38:32,040 --> 01:38:35,200
+<font color="#ffffff">Papa, du musst deine Rede halten.</font>
+
+874
+01:38:35,400 --> 01:38:40,120
+<font color="#ffffff">Robert, komm doch mal raus!</font>
+<font color="#ffffff">Ich komme gleich wieder.</font>
+
+875
+01:38:45,400 --> 01:38:50,400
+<font color="#ffffff">Ja, ich sehe ihn. Du hast uns</font>
+<font color="#ffffff">ganz schön warten lassen.</font>
+
+876
+01:38:57,840 --> 01:39:03,600
+<font color="#ffffff">Ich danke euch, dass ihr alle</font>
+<font color="#ffffff">gekommen seid. Vielen Dank und...</font>
+
+877
+01:39:06,680 --> 01:39:08,840
+<font color="#ffffff">Viel Vergnügen, danke.</font>
+
+878
+01:39:18,960 --> 01:39:23,360
+<font color="#ffffff">Tut mir leid, dass wir</font>
+<font color="#ffffff">heute dieses Fest feiern.</font>
+
+879
+01:39:23,560 --> 01:39:27,520
+<font color="#ffffff">Wenn ich gewusst hätte,</font>
+<font color="#ffffff">dass du kommst...</font>
+
+880
+01:39:30,160 --> 01:39:34,640
+<font color="#ffff00">Ich habe immer gedacht,</font>
+<font color="#ffff00">du hast nen Swimmingpool.</font>
+
+881
+01:39:34,840 --> 01:39:40,640
+<font color="#ffffff">Wir haben einen See in der Nähe.</font>
+<font color="#ffffff">Ich habe dich nicht mal erkannt.</font>
+
+882
+01:39:46,840 --> 01:39:51,120
+<font color="#ffff00">Jetzt habe ich wohl</font>
+<font color="#ffff00">2 neue Geschwister, oder?</font>
+
+883
+01:39:58,080 --> 01:40:04,120
+<font color="#ffffff">Ich habe 3 Jahre jeden Tag auf</font>
+<font color="#ffffff">eine Nachricht von euch gewartet.</font>
+
+884
+01:40:04,320 --> 01:40:09,160
+<font color="#ffffff">Jeden Tag. Nichts habe ich</font>
+<font color="#ffffff">mir sehnlicher gewünscht.</font>
+
+885
+01:40:21,480 --> 01:40:23,640
+<font color="#ffffff">Warum bist du gekommen?</font>
+
+886
+01:40:29,840 --> 01:40:32,000
+<font color="#ffff00">Mama liegt im Sterben.</font>
+
+887
+01:40:33,960 --> 01:40:39,280
+<font color="#ffff00">Sie hatte einen Herzinfarkt.</font>
+<font color="#ffff00">Sie will dich noch mal sehen.</font>
+
+888
+01:40:56,560 --> 01:40:59,800
+<font color="#ffff00">Wie wars denn da oben?</font>
+<font color="#ffffff">- Da oben?</font>
+
+889
+01:41:03,760 --> 01:41:06,600
+<font color="#ffffff">Ach so, da oben.</font>
+
+890
+01:41:09,080 --> 01:41:14,400
+<font color="#ffffff">Wunderschön wars da oben.</font>
+<font color="#ffffff">Nur sehr weit weg von zu Hause.</font>
+
+891
+01:41:21,760 --> 01:41:26,360
+<font color="#ffffff">Die Mauer gibts nicht mehr</font>
+<font color="#ffffff">und keine Grenze mehr.</font>
+
+892
+01:41:26,600 --> 01:41:28,960
+<font color="#ffffff">Es ist alles ein Land.</font>
+
+893
+01:41:29,560 --> 01:41:34,760
+<font color="#ffffff">Aber das stimmt doch nicht.</font>
+<font color="#ffff00">- Deswegen musst du mitspielen.</font>
+
+894
+01:41:34,960 --> 01:41:38,560
+<font color="#ffffff">Warum bin ich</font>
+<font color="#ffffff">in die DDR zurückgekommen?</font>
+
+895
+01:41:38,800 --> 01:41:41,040
+<font color="#ffff00">Lass dir was einfallen.</font>
+
+896
+01:41:45,520 --> 01:41:50,040
+<font color="#ffffff">Ich kann das nicht.</font>
+<font color="#ffff00">- Du musst dich nur überwinden.</font>
+
+897
+01:42:16,600 --> 01:42:18,640
+<font color="#ffffff">Mama.</font>
+<font color="#ffffff">- Ja.</font>
+
+898
+01:42:46,560 --> 01:42:48,640
+<font color="#00ff00">Ich will aufstehen.</font>
+
+899
+01:42:50,080 --> 01:42:52,160
+<font color="#00ff00">Wie sehe ich aus?</font>
+
+900
+01:43:02,200 --> 01:43:04,320
+<font color="#ffff00">Du kannst jetzt.</font>
+
+901
+01:43:07,000 --> 01:43:10,520
+<font color="#ffff00">Und bitte denk daran, kein Wort!</font>
+<font color="#ffffff">- Ja, ja.</font>
+
+902
+01:43:20,880 --> 01:43:25,560
+<font color="#ffff00">Worüber habt ihr gesprochen?</font>
+<font color="#ffffff">- Ist das jetzt wichtig?</font>
+
+903
+01:43:40,240 --> 01:43:44,720
+<font color="#ffff00">Wie lange ist er schon bei ihr?</font>
+<font color="#ffffff">- Über eine Stunde.</font>
+
+904
+01:43:48,760 --> 01:43:52,200
+<font color="#ffff00">Hoffentlich verplappert</font>
+<font color="#ffff00">er sich nicht.</font>
+
+905
+01:43:54,440 --> 01:43:59,640
+<font color="#ffff00">Der Sommer war vorbei.</font>
+<font color="#ffff00">Ich beschloss den Spuk zu beenden.</font>
+
+906
+01:43:59,840 --> 01:44:05,120
+<font color="#ffff00">Ein letztes Mal sollten wir den</font>
+<font color="#ffff00">Geburtstag der DDR feiern.</font>
+
+907
+01:44:05,360 --> 01:44:10,600
+<font color="#ffff00">Im Gegensatz zur Wirklichkeit</font>
+<font color="#ffff00">als einen würdigen Abschied.</font>
+
+908
+01:44:10,840 --> 01:44:13,840
+<font color="#ffffff">* Musik *</font>
+
+909
+01:44:35,200 --> 01:44:38,200
+<font color="#00ffff">Kamera läuft, auf 3 gehts los!</font>
+
+910
+01:44:41,400 --> 01:44:47,440
+<font color="#ffffff">Liebe Bürgerinnen und Bürger der</font>
+<font color="#ffffff">Deutschen Demokratischen Republik.</font>
+
+911
+01:44:47,760 --> 01:44:53,800
+<font color="#ffffff">Ich habe das Wunder erlebt, die</font>
+<font color="#ffffff">Erde aus dem Kosmos zu betrachten.</font>
+
+912
+01:45:04,600 --> 01:45:10,120
+<font color="#ffff00">Wir verschoben den Jahrestag der</font>
+<font color="#ffff00">DDR auf den 2. Oktober 1990.</font>
+
+913
+01:45:10,360 --> 01:45:14,600
+<font color="#ffff00">Es war der Vorabend</font>
+<font color="#ffff00">der Wiedervereinigung.</font>
+
+914
+01:45:35,360 --> 01:45:37,440
+<font color="#ffff00">Und?</font>
+
+915
+01:45:37,680 --> 01:45:40,680
+<font color="#00ffff">Mein bisher bester Film, Alter!</font>
+
+916
+01:45:40,880 --> 01:45:44,920
+<font color="#00ffff">Schade, dass nur</font>
+<font color="#00ffff">deine Mutter ihn sehen wird.</font>
+
+917
+01:45:45,160 --> 01:45:47,720
+<font color="#ffff00">Danke, Denis, ohne dich...</font>
+
+918
+01:45:47,960 --> 01:45:51,720
+<font color="#00ffff">Hier, zisch ab, bevor es</font>
+<font color="#00ffff">sentimental wird!</font>
+
+919
+01:45:51,960 --> 01:45:54,960
+<font color="#00ffff">Erzähl mir, wies gelaufen ist.</font>
+
+920
+01:45:55,160 --> 01:46:01,400
+<font color="#00ffff">Heute ist Erich Honecker von all</font>
+<font color="#00ffff">seinen Ämtern zurückgetreten.</font>
+
+921
+01:46:02,400 --> 01:46:04,560
+<font color="#00ff00">Was?</font>
+
+922
+01:46:04,760 --> 01:46:09,920
+<font color="#ffffff">Unseren Freunden sei versichert,</font>
+<font color="#ffffff">dass der Sozialismus...</font>
+
+923
+01:46:10,160 --> 01:46:14,200
+<font color="#00ffff">Erich Honecker begründete</font>
+<font color="#00ffff">seinen Entschluss.</font>
+
+924
+01:46:14,400 --> 01:46:18,560
+<font color="#00ffff">Die neuesten Veränderungen</font>
+<font color="#00ffff">in der DDR sind...</font>
+
+925
+01:46:18,800 --> 01:46:24,200
+<font color="#00ffff">...ein würdiger Abschluss</font>
+<font color="#00ffff">seines politischen Lebenswerkes.</font>
+
+926
+01:46:24,400 --> 01:46:30,280
+<font color="#00ffff">Der neue Vorsitzende des</font>
+<font color="#00ffff">DDR-Staatsrates ist Sigmund Jähn.</font>
+
+927
+01:46:30,640 --> 01:46:32,800
+<font color="#00ff00">Was, der Jähn?</font>
+
+928
+01:46:33,000 --> 01:46:37,720
+<font color="#00ffff">Jähn war 1978 als erster</font>
+<font color="#00ffff">deutscher Kosmonaut im All.</font>
+
+929
+01:46:37,960 --> 01:46:43,800
+<font color="#00ffff">Das neue Staatsoberhaupt wandte</font>
+<font color="#00ffff">sich an die Bevölkerung der DDR.</font>
+
+930
+01:46:44,720 --> 01:46:50,720
+<font color="#ffffff">Liebe Bürgerinnen und Bürger der</font>
+<font color="#ffffff">Deutschen Demokratischen Republik.</font>
+
+931
+01:46:50,960 --> 01:46:56,920
+<font color="#ffffff">Ich habe das Wunder erlebt, die</font>
+<font color="#ffffff">Erde aus dem Kosmos zu betrachten.</font>
+
+932
+01:46:57,160 --> 01:47:00,520
+<font color="#ffffff">Dadurch sehe ich die Dinge anders.</font>
+
+933
+01:47:01,640 --> 01:47:07,320
+<font color="#ffffff">Im Weltall kommt einem das Leben</font>
+<font color="#ffffff">der Menschen unbedeutend vor.</font>
+
+934
+01:47:07,520 --> 01:47:11,840
+<font color="#ffffff">Man fragt sich,</font>
+<font color="#ffffff">was die Menschheit erreicht hat.</font>
+
+935
+01:47:12,080 --> 01:47:15,240
+<font color="#ffffff">Welche Ziele hat sie verwirklicht?</font>
+
+936
+01:47:15,480 --> 01:47:18,560
+<font color="#ffffff">Unser Land hat heute Geburtstag.</font>
+
+937
+01:47:18,760 --> 01:47:23,080
+<font color="#ffffff">Aus dem Kosmos gesehen</font>
+<font color="#ffffff">ist es ein kleines Land.</font>
+
+938
+01:47:23,280 --> 01:47:27,360
+<font color="#ffffff">Und doch sind viele Menschen</font>
+<font color="#ffffff">zu uns gekommen.</font>
+
+939
+01:47:27,600 --> 01:47:32,080
+<font color="#ffffff">Menschen, die wir früher</font>
+<font color="#ffffff">als Feinde gesehen haben.</font>
+
+940
+01:47:32,320 --> 01:47:35,080
+<font color="#ffffff">Unser Land ist nicht perfekt.</font>
+
+941
+01:47:35,320 --> 01:47:41,040
+<font color="#ffffff">Aber das, woran wir glauben,</font>
+<font color="#ffffff">begeistert Menschen aus aller Welt.</font>
+
+942
+01:47:41,240 --> 01:47:46,680
+<font color="#ffffff">Oft vergaßen wir unsere Ziele,</font>
+<font color="#ffffff">doch wir haben uns besonnen.</font>
+
+943
+01:47:46,880 --> 01:47:50,720
+<font color="#ffffff">Sozialismus heißt nicht,</font>
+<font color="#ffffff">sich einzumauern.</font>
+
+944
+01:47:50,920 --> 01:47:56,040
+<font color="#ffffff">Es heißt, auf den anderen zuzugehen</font>
+<font color="#ffffff">und mit ihm zu leben.</font>
+
+945
+01:47:56,360 --> 01:48:02,080
+<font color="#ffffff">Nicht von einer besseren Welt</font>
+<font color="#ffffff">träumen, sondern sie wahr machen.</font>
+
+946
+01:48:02,320 --> 01:48:07,080
+<font color="#ffffff">Ich bin entschlossen,</font>
+<font color="#ffffff">die Grenzen der DDR zu öffnen.</font>
+
+947
+01:48:07,320 --> 01:48:11,280
+<font color="#00ffff">Die Mauer ist erst</font>
+<font color="#00ffff">wenige Stunden geöffnet.</font>
+
+948
+01:48:11,680 --> 01:48:16,800
+<font color="#00ffff">Aber tausende Bürger der BRD</font>
+<font color="#00ffff">haben schon die DDR besucht.</font>
+
+949
+01:48:19,280 --> 01:48:21,440
+<font color="#00ffff">Viele wollen bleiben.</font>
+
+950
+01:48:21,640 --> 01:48:27,400
+<font color="#00ffff">Sie suchen eine Alternative zum</font>
+<font color="#00ffff">Überlebenskampf im Kapitalismus.</font>
+
+951
+01:48:27,640 --> 01:48:29,800
+<font color="#00ff00">Das ist wundervoll.</font>
+
+952
+01:48:30,000 --> 01:48:34,280
+<font color="#00ffff">Nicht jeder möchte beim</font>
+<font color="#00ffff">Konsumterror mitmachen.</font>
+
+953
+01:48:34,520 --> 01:48:39,640
+<font color="#00ffff">Nicht jeder ist für die</font>
+<font color="#00ffff">Ellenbogen-Mentalität geschaffen.</font>
+
+954
+01:48:45,280 --> 01:48:51,200
+<font color="#00ffff">Diese Menschen merken, dass Autos</font>
+<font color="#00ffff">und Fernseher nicht alles sind.</font>
+
+955
+01:48:51,440 --> 01:48:56,440
+<font color="#00ffff">Sie wollen mit gutem Willen,</font>
+<font color="#00ffff">Tatkraft und Hoffnung...</font>
+
+956
+01:48:56,720 --> 01:48:59,920
+<font color="#00ffff">...ein anderes</font>
+<font color="#00ffff">Leben verwirklichen.</font>
+
+957
+01:49:04,840 --> 01:49:06,920
+<font color="#00ff00">Wahnsinn!</font>
+
+958
+01:49:10,360 --> 01:49:13,360
+<font color="#ffffff">* Musik: Die Hymne der DDR *</font>
+
+959
+01:50:15,640 --> 01:50:19,960
+<font color="#ffff00">Meine Mutter überlebte die DDR</font>
+<font color="#ffff00">genau 3 Tage.</font>
+
+960
+01:50:20,160 --> 01:50:25,120
+<font color="#ffff00">Es war richtig, dass sie die</font>
+<font color="#ffff00">Wahrheit nie erfahren hat.</font>
+
+961
+01:50:25,360 --> 01:50:28,080
+<font color="#ffff00">Sie ist glücklich gestorben.</font>
+
+962
+01:50:28,560 --> 01:50:34,120
+<font color="#ffff00">Sie wünschte sich, dass wir ihre</font>
+<font color="#ffff00">Asche in alle Winde streuen.</font>
+
+963
+01:50:34,800 --> 01:50:39,840
+<font color="#ffff00">Das ist in Deutschland verboten,</font>
+<font color="#ffff00">im Westen wie im Osten.</font>
+
+964
+01:50:40,080 --> 01:50:42,160
+<font color="#ffff00">Aber das war uns egal.</font>
+
+965
+01:51:07,960 --> 01:51:10,120
+<font color="#ffffff">(Jemand hustet)</font>
+
+966
+01:51:11,480 --> 01:51:16,120
+<font color="#ffff00">Da oben schwebt sie jetzt</font>
+<font color="#ffff00">und schaut auf uns hinab.</font>
+
+967
+01:51:16,360 --> 01:51:21,240
+<font color="#ffff00">Sie sieht uns als winzige Punkte</font>
+<font color="#ffff00">auf der kleinen Erde.</font>
+
+968
+01:51:21,480 --> 01:51:24,320
+<font color="#ffff00">Genau wie damals Sigmund Jähn.</font>
+
+969
+01:51:25,160 --> 01:51:30,480
+<font color="#ffff00">An das Land, das meine Mutter</font>
+<font color="#ffff00">verließ, hatte sie geglaubt.</font>
+
+970
+01:51:31,680 --> 01:51:36,480
+<font color="#ffff00">Wir ließen es bis zu ihrer</font>
+<font color="#ffff00">letzten Sekunde überleben.</font>
+
+971
+01:51:36,720 --> 01:51:41,560
+<font color="#ffff00">Ein Land, dass es in Wirklichkeit</font>
+<font color="#ffff00">nie so gegeben hat.</font>
+
+972
+01:51:41,760 --> 01:51:47,520
+<font color="#ffff00">Das Land wird in meiner Erinnerung</font>
+<font color="#ffff00">immer mit ihr verbunden sein.</font>
+
+973
+01:52:23,040 --> 01:52:25,040
+<font color="#0000ff">Copyright WDR 2019</font>
+
