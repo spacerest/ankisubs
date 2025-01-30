@@ -22,6 +22,7 @@ class FlashcardMaker:
 
         self.translator = GoogleTranslator(source='de', target='en')
         self.nlp = spacy.load("de_core_news_sm")
+        self.GENDER_DICT = {"Fem": "die", "Masc": "der", "Neut": "das"}
 
     # get all the words from the subtitle file and save in dict with counts
     def make_subtitle_word_count(self):
@@ -60,11 +61,18 @@ class FlashcardMaker:
                 # using "sein"
                 lemma = spacy_token.lemma_
 
+
+                # if the lemma is a noun, get the gender and add die/der/das
+                if spacy_token.pos_ == "NOUN":
+                    print(lemma)
+                    gender = spacy_token.morph.get("Gender")
+                    if gender:
+                        lemma = self.GENDER_DICT[gender[0]] + " " + lemma
+
                 # check if you already have a translation for this word, 
                 # like maybe you got partway through translations on this
                 # file already
-                if not self.translation_dict.get(word):
-
+                if not self.translation_dict.get(lemma):
 
                     self.translation_dict[lemma] = self.translator.translate(lemma)
                     print(lemma, self.translation_dict[lemma])
@@ -138,4 +146,4 @@ class Subtitles():
         # if there's a word marked ADP (adposition) at the end of a sentence,
         # see if it might be a separable verb and can fit with a verb earlier in the sentence
 
-# todo get gender of nouns
+# todo get gender of nouns - done
