@@ -59,23 +59,22 @@ class FlashcardMaker:
                 # get the lemma of this word
                 # for example, if the word is "bin", you'll be
                 # using "sein"
-                lemma = spacy_token.lemma_
+                entry = spacy_token.lemma_
 
 
                 # if the lemma is a noun, get the gender and add die/der/das
                 if spacy_token.pos_ == "NOUN":
-                    print(lemma)
                     gender = spacy_token.morph.get("Gender")
                     if gender:
-                        lemma = self.GENDER_DICT[gender[0]] + " " + lemma
+                        entry = self.GENDER_DICT[gender[0]] + " " + entry
 
                 # check if you already have a translation for this word, 
                 # like maybe you got partway through translations on this
                 # file already
-                if not self.translation_dict.get(lemma):
+                if not self.translation_dict.get(entry):
 
-                    self.translation_dict[lemma] = self.translator.translate(lemma)
-                    print(lemma, self.translation_dict[lemma])
+                    self.translation_dict[entry] = self.translator.translate(entry)
+                    print(entry, self.translation_dict[entry])
 
         # write to file
         with open(self.TRANSLATION_DICT_PATH, 'w', encoding="utf-8") as f:
